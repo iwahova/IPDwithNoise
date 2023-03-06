@@ -1,0 +1,5 @@
+﻿  IPDwithNoise.cpp
+C:\Users\ASUS\Desktop\IPDwithNoise\IPDwithNoise\IPDwithNoise.cpp(1145,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ASUS\Desktop\IPDwithNoise\IPDwithNoise\IPDwithNoise.cpp(1532,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ASUS\Desktop\IPDwithNoise\IPDwithNoise\IPDwithNoise.cpp(1863,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  IPDwithNoise.vcxproj -> C:\Users\ASUS\Desktop\IPDwithNoise\IPDwithNoise\x64\Debug\IPDwithNoise.exe

@@ -1,0 +1,1263 @@
+number of generation: 300
+number of s1: 20000	number of s2: 20000
+average payoff of master1: 136.04	average payoff of master2: 135.24
+average payoff of slave1: 163.99	average payoff of slave2: 166.89
+average payoff of slave: 109.54	average payoff of master: 219.89
+average payoff of slave: 164.15	average payoff of tft: 123.1
+average payoff of master: 163.29	average payoff of tft: 121.44
+average payoff of tft1: 223.21	average payoff of tft2: 224.96
+average payoff of slave: 192.19	average payoff of gtft: 115.59
+average payoff of master: 193.02	average payoff of gtft: 113.67
+sequence of gtft1: D C D C C C D C D C C C C C C C C C C C D C D C D D D C C C C C C D D D C D C C C C C C C C D C D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C D C D payoff of gtft1: 248
+sequence of gtft2: C D C C C C D D C C C C C D C C C C C C C D C D C D C C C C C C C C D D D C D C C C C C C C C D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C D C D C C D C C D C C C C C C D C D C payoff of gtft2: 243
+
+sequence of gtft1: C C C D C C C C C C C C C C C C C C C D C C C D C D C C D D C D C D C D C C C C C C C C D D D C D C D C D C D C C C C C D D C C C C C D C D D D D C D C D D D D D D D D D D C D C D C C C C C C C D D C payoff of gtft1: 251
+sequence of gtft2: C C D C D C C D C C C C C C C C C C C C D C C C D C C D C C D C D C D C D C C C C C C C C D D D C D C D C D C C C C C D C D D C C C C C D D D D C D C D D D D D D D D C D C D C D C D C C C C C C C C D payoff of gtft2: 246
+
+sequence of gtft1: C C C C C C C C C D C C C C D C D C D C C C C C C C C C C D C C C C C C C D C D C D C D C D C C C C C C C C C C C C C C C C C C C D C C D C D C D C D C D C D D D C D C D C D C C C C C C C C C C D D D payoff of gtft1: 280
+sequence of gtft2: D C C C C C C C C C C C C C C D C D C C C C C C C C C C C C D C C C C C C C D C D C D C D C D C C C C C C C C C C C C C C C C C C C C C C D C D C D C D C D C D D D C D C D C D C C C C C C C C C C D D payoff of gtft2: 265
+
+sequence of gtft1: C C C D C D C D C C C C C C C C C C C C C C D C D C D C C D C D C D C D C D C C D C D C C C C C C C C C C C C C C C D C D C D C D C D C C C C C C C D C C C C C C C D C D C D C D C C C D C C C C C C D payoff of gtft1: 270
+sequence of gtft2: C C C C D C D C D C C C C C C C C C C C C C C D C D C C D C D C D C D C C C D C C D C D C C C C C C C C C C D C C C C D C D C D D D C D C C C C C C C C C C C C C C C D C D C D C D C C D D C C C C D C payoff of gtft2: 275
+
+sequence of gtft1: C C D C C C C C D C C C D C C C C C C C D C C C C C D C C D C D D C C C C C C C C C C C C C C C D C D C D D D D D D D D D C C C C C C C C C D C D D D C D C D D D D D D D C C C C C C C C C C C C C C C payoff of gtft1: 252
+sequence of gtft2: C C C C C C C D C D C D C C C C C C C C C D D C C C C C C C D C C C C C C C C C C C C C C C C C C D C D C D D D D D D D D D C C C C C C C D C D D D D D C D C D D D D D D D C C C C C C C C C C C C C C payoff of gtft2: 252
+
+sequence of gtft1: C D C D C C C C C C C D C C C C C C C C C C C C C D D C D C D C D D D C C D C D D D D C D C D C D C D C D D C C C C C C C C D C D C D C C C C D C D C D C C C C D C D D C D C D C D C D C C C C C C C C payoff of gtft1: 258
+sequence of gtft2: C C D C D C C C C C D C D C C C C C C C C C C C D D C D C D C D C D D D C C D C C D D D C D C D C D C D D D C C C C C C C C C D C D C C C C C C C C D C D D C C C D D C D C D C D C D C C C C C C C C D payoff of gtft2: 258
+
+sequence of gtft1: D D D C D C D D D C C C C C D C C C C C C D C D C C C C D C D C D C D C C C C D C D C D C D C D C D C D C C C C D C C C C C C C C C C C C D D D D D D D D D C D C D C D D C D C C C D C D C D D C D C D payoff of gtft1: 251
+sequence of gtft2: C D D D C D D D C D C C C D C D C C C C C C D C C C C C C D C D C D C C C C C C D C D C D C D C D C D C C C C C C C C C C D C C C C C C D C D D D D C D D D D C D C D D C D C D C D C D C D C D D C D C payoff of gtft2: 241
+
+sequence of gtft1: C C C C D C D C C C C C C C C C C C C C C C C C D D D D C D C D C D C D C D C D C D D D D C C C C C C C C C C C C C C C C C D C D C D D C D C D C D C D C D C D C D C C C D C D C D C D C D C C C C C C payoff of gtft1: 265
+sequence of gtft2: C C C D C D C C C C C C C C C C C C C C C C C D C D D C D C D D D C D C D C D C D C D D C D C C C C C C C C C C C C C C C C C D C D D C D C D C D C D C D C D C D C C C D C D C D C D C D C C C C C C C payoff of gtft2: 260
+
+sequence of gtft1: C C D C C C C D C D C C D C D C D C C C C C C C C C C C C C C C D C C C D C C C C C C C C C D C D C C C D D D D D C D D D D D C D D D D C C C C C C C D C D C C D D D C D C D C D C D C C C C C C C D D payoff of gtft1: 241
+sequence of gtft2: C D C D C C C C D C D C C D C D C C C C C C C C C C C D C C C D C D C C C D C C C C C C C C C D C C C D D D D D D D C D D D C D D C D D D C C C C C D C D C D D C D D D C D C D C D C C C C C C C C D D payoff of gtft2: 256
+
+sequence of gtft1: C C C C C C C C D D D D C D C D C C C C C C C C C C C C C C C C C C C D C C D C D C C C D C D C D C C D C D D C C C C C C D C D C C C C C C C C C C C C C C C C D D D D C D C D C D C C C C C C C C C C payoff of gtft1: 268
+sequence of gtft2: C C C C C C C C D D D C D C D C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C D C D C D D C D C D D C C C C D C D C C C C C C C C C C C C C C C C D C D D D D C D D D C C C C C C C C C C C payoff of gtft2: 268
+
+sequence of gtft1: C C C C C C C C C C C C C C C D C D C D C D D D D D C D C D C C C C C C C C C C C D C D C C C C C C C C C C C C C C C D C C C D C D C C C C D D D C D C C C C C C C C C C C D C D C D C C C D C C C C C payoff of gtft1: 261
+sequence of gtft2: C C C C C C C C C C C C C C C C D C D C D D D D D C D C D C D C C C C C C C C C D C D C D C C C C C C C C C C C C C D C C C D C D C C C C C C D C D D D C C C D C C C C C D C D C D D C C D C C C C C C payoff of gtft2: 276
+
+sequence of gtft1: C C D D D C D C D C C C D C D C C C C C C C C C C C C C C D C C C C C D D C D C C C C C C C D C D C D C D D D D D D D D D C D C D C D C D C D D D D C D C D C C C C C C D C D C C C C C C C C C C C D D payoff of gtft1: 251
+sequence of gtft2: C C C D C D C D C D C C C D C C C C C C C C C C C C C C C C D C C C D D D D C D C C C C C C C D C D C D C D D D D D D D D D C D C D C D C D C D D D D C D C D C C C C C C D C D C C C C C C C C C C D C payoff of gtft2: 246
+
+sequence of gtft1: C C C C C C C C C C C C C C D C D C D C D C C C D C D C C D D C D C D C D C C C D C C C C D D D D D D C C C C C C C C D C D C D C D C C C C C C C C C C C C C C C C C C C C D C D C D C D D D C D C D C payoff of gtft1: 261
+sequence of gtft2: C C C C C C C C C C C C C C C D C D C D C D C C C D C C C D C D C D C D C D C C C C C C C D D D D D D D C C C C C C D C D C D C D C D C C C C C C C C C C C C C C C C C C C C D C D C D C D D D C D C D payoff of gtft2: 261
+
+sequence of gtft1: C C D D C D C D C D C D C D D D C D C D C C C C C C C C C D C D C C C C C C C D C C C D C D C D D D D D D D C D D C D C D C D C D C D C D D D D D D D C D C D C D C D C D C C C D C C D D C C C C C C C payoff of gtft1: 232
+sequence of gtft2: C D C C D C D C D C D C D D D D C C D C C C C C C C C C C C D C D C C C C C C C D C C C D C D D D D D D D D D C D D C D C D C D C D C D D D D D D D C D C D D D C D C D C D C D D C C D C C C C C C C C payoff of gtft2: 237
+
+sequence of gtft1: C C C C C C C C C C C C D C D C D D D D D D C D C D C D D D D C D C D D D D C C C C C C C C D D D C C C D D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C payoff of gtft1: 271
+sequence of gtft2: C C C C C C C C C C C C C D C D D D D D D D D C D C D D D D C D C D C D D C C C C C C C C C C C C C C D D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D payoff of gtft2: 256
+
+sequence of gtft1: C C C D C D D D C C C D C C C C C C D C D C C D C C C C C C C C C C C D D D C C C C C C C D C C C C C C D C D C D C D D C D C D C C D D D C D C D C C D C C C C C C C C C C C C C C C C C D C C D C D C payoff of gtft1: 257
+sequence of gtft2: C C D C D D D C D C D C D C C C C D C D C D C C D C C C C C C C C C D C D D C C C C C C D C C C C C C C C D C D C D C D D C D C C C C D C D C D C D D C C C C C C C C C C C C C C C C C D C D D C D C D payoff of gtft2: 272
+
+sequence of gtft1: C C C C C D C C C C C C D C C C C C C D C D C D C C C C C C D C D C D D D D C D D C C D C D C C C C C C C D C D C D C D C D C C C C C C C C C C C C C C C D C D C C C D C D C C C C C C C C C D C C D C payoff of gtft1: 272
+sequence of gtft2: C C C C C C D C C C C C C C C C C C D C D C D C C C C C C C C D C D D D D C C D D D D C D C D C C C C C D C D C D C D C D C C C C C C C C C C C C C C C D C D C D C C C D C C C C C C C C C C C C C C D payoff of gtft2: 267
+
+sequence of gtft1: C C C D C D C C C C C C C C C D C D C D C C C C C C C C C D C C D C C C D D C D C D D C C C C C D C D C D C C C C D D C C C C D C D D D D D D D D C D C D C C C D C D C C C D C C D C D C C C C C C C C payoff of gtft1: 250
+sequence of gtft2: C C C C D C C C C C C C C C C C D C D C D C C C C C C C D C D D C C C D C C D C D D C D C C C C C D C D C D C C C C C C C C D C D C D D D D D D D D C D C D C D C D C D D D C D D C D C D C C C C C C C payoff of gtft2: 265
+
+sequence of gtft1: C D C C C D D C C C C C D D D C D C D C C C C C C D C C D C C C C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D D D D C C C C C C C C C C C C C D C D C D C D D D D payoff of gtft1: 258
+sequence of gtft2: D C C C C D D D C C C D C D D D C D C C C C C C C C C C C D C C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D D D C C C C C C C C C C C C C D C D C D D D C D D D payoff of gtft2: 253
+
+sequence of gtft1: C C C D C D C D C D C D C D C D C D C C D C D D D D C D C C C C C C C D C D C D D D C D C D C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C D C D payoff of gtft1: 266
+sequence of gtft2: C C D C D C D C D C D C D C D C D C C D C D C D D C D C C C C C C C D C D C D C D D D C D C D C C C C D C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C D C D C payoff of gtft2: 271
+
+sequence of gtft1: C C C C C C C C C C C C C C C C C D C C C C D D D D C C C C C C C C C C C C C D D C D C C C C C C C C C C C C C C C C D C D C D C D C D C D C D C C C C D C C C D C C C D C D D C C C C C D C D C D C D payoff of gtft1: 272
+sequence of gtft2: C C C C C C C C C C C C C C C C D C C C C D D D D D C C C C C C C C C C C C C D C D D C C C C C C C D C C C C C C C C C D C D C D C D C D C D C C C D C C C C C C C C C C D D C C C C C D C D C D C D C payoff of gtft2: 267
+
+sequence of gtft1: D C D C D C D D D C C C C C C C D D D D D C D C C C C C C C C C C C D C D C D C D D D D D D D D D D D C D C C C C C C C C C C D D C D C D C D C D C D C C C D D D C C C C C D D D C D C D C C D C C C C payoff of gtft1: 237
+sequence of gtft2: C D C D C D D D D C C C C C C D D D D D D D C D C C C C C C C C C D C D C D C D D D D D D D D D D D C D C D C C C C C C C C C D D C C D C D C D C D C C C C C C D C C C C C D D C D C D C C D C C C C C payoff of gtft2: 232
+
+sequence of gtft1: C C C C D D D D D D D C C D C D C D C D C D C D C D C C C C C C D C C C C C C C C C D C D D D D D D C D C C C C C D D D D C C C C C D C D C D C C C C D C D C D C D D C C C C C C C C C C D C C D C C C payoff of gtft1: 245
+sequence of gtft2: C C C D D D D D D D D C D C D C D C D C D C D C D C C C C C C C C D C C C C C C C D D D C D C D D C D C D C C C C C D D D C C C C D C D C D C D C C D C D C D C D C C C C C C C C D C C C D C D C C C C payoff of gtft2: 250
+
+sequence of gtft1: C D D D C C C C C C C C C D C D C D C C C C D C D C C C C C C C C D C D C D C D C D C C C C C C C C C C C C C C D C C C C D D C D C D C D C D C D C D C D C D C D C C D C D C C C C C C C C D D C D C C payoff of gtft1: 267
+sequence of gtft2: C C D C D C C C C C C C C C D C D C C C C D C D C C C C C C C C C C D C D C D C D C C C C C C C C C C C C C C D C D C C D D C D C D C D C D C D C D C D C D C D C D C C D C D C C D C C C D C D D C C C payoff of gtft2: 267
+
+sequence of gtft1: C C C C C D C D C D D D D D C C C C C D D D D D D D C D C D C D C D C D C D C D C D C D C D C C C C C C D C D C D C C D C D D D C D C D C D C D C D C D C D D C D C C C D C D C D C C C C C D C C C C C payoff of gtft1: 251
+sequence of gtft2: C C C C C C D C D C D D D C C C C C D C D D D D D C D C D C D C D C D C D C D C D C D C D C D C C C C D C D C D C D D C C D D D D C D C D C D C D C D C D C C D C D C C C D C D C C C C C C C D C C C C payoff of gtft2: 241
+
+sequence of gtft1: D C D C D C D C D D D D C D C C C C C C C C C D C D C D C D C D C D D D C D C D C C C C C C D C D C D C D C C D D D D C D C D C C C C C C D C D C D C D C D C D C C D C D C D C D C D C D C D C D C C C payoff of gtft1: 251
+sequence of gtft2: C D C D C D C D D D D D D C C C C C C C C C D C D C D C D C D C D C D D D D D C D C C C C D C D C C C D C C C C D D C D C D C D C C C C C C D C D C D C D C D C D C C D C D C D C D C D C D C D C C C C payoff of gtft2: 246
+
+sequence of gtft1: C C C C C D D C D C D C D C D C D D D D D D D D D D D D D C D C D C C C C C C D D C D C C C C C C D C C C D C D C D C C C C D C D D D D C D C D C C C D C D C C C C C D C D D D D D D C D D C D C D C C payoff of gtft1: 222
+sequence of gtft2: C C C C D D D D C D C D C D C D C D D D D D D D D D D D D D C C C D C C C C D D C D C D C C C C C C D C D C D C D C D C C C C D C D D D D C D C C C D C C C D C C C C C D C D D D D D D D C D C D C D C payoff of gtft2: 232
+
+sequence of gtft1: C C C D C D C D C D C D C D C C C C C C C C C C C C C C D C D C D C C C D C D C D C C C C D C D C C C C D C D C C C C C C C C D D C D D C C D C C D C C D C D C D D D C D C D C D D D C C C C C C C C C payoff of gtft1: 282
+sequence of gtft2: C C C C D C D C D C D C D C D C C C C C C C C C C C C C C D C D C C C C C D C D D D C C C C D C C C C C C D C C C C C C C C D C C D C C C C C D D C C C C D C D C C D D C D C D C D D C C C C C C C C C payoff of gtft2: 252
+
+sequence of gtft1: C C C C C C C C C C D C C C C C C C C C C C D C C C D C D C D C C C C C D C D C D C D C D C D C D C D C D C D C C C D C C C C D D D D D D C D D D D C C C C C D C C C C C C C C C C C C D C D C D C C C payoff of gtft1: 259
+sequence of gtft2: C C C C C C C C C D C D C C C C C C C C C D C D C C C D C D C C C C C D C D C D C D C D C D C D C D C D C D C C C D C C C C D D D D D D D D C D D C C C C C D C D C C C C C C C C C C C C D C D C C C C payoff of gtft2: 264
+
+sequence of gtft1: C C C C C D C D C D C D C D C D C D C D D D D D D C C C D C D C D C D C C D C D C D C D C C C C C C C C C C D D D D D D D C C C C C C D C D C D C D C D C D C D C D C D C D C D D C D D D C D D C D C D payoff of gtft1: 230
+sequence of gtft2: C C C C D C D C D C D C D C D C D C D D D D D D D D C C C D C D C D C C D C D C D C D C D C C C C C C C C C D D D D D D C D C C C C C C D C D C D C D C D C D C D C D C D C D D D D D D D D C C D C D C payoff of gtft2: 240
+
+sequence of gtft1: C D C D C C C D C D C C C D C D C D C C D D C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C D C D C D C C C D C D C D C D C D D C D C D C D C C C C C D D D D C C C C C C C C payoff of gtft1: 277
+sequence of gtft2: D C D C D C D C D C D C C C D C D C C C C D D C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C D C D C C C C C D C D C D C D C C D C D C D C C C C C D D D D C C C C C C C D C payoff of gtft2: 262
+
+sequence of gtft1: C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C D D D D C D C D C D C D D D C D C C D C C C C D D C C D D C C C C C D payoff of gtft1: 258
+sequence of gtft2: C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C D C C C D C D D D D D D C D C D C D C D D D C C C C D C C D D D C C D D D C C C D C payoff of gtft2: 278
+
+sequence of gtft1: C D C D D D C C D C D C D C D C D C C C C C C C C C D C D C C C D C C D D D D D D D D D D D D D D D D C C C D D C C D D D D C D C D C C C C D C D C D C D C D C D C D C D C D D D D D D D D C D C D C D payoff of gtft1: 214
+sequence of gtft2: C C D D D D D C C D C D C C C D C D C C C C C C C D C D C C C C C D D D D D D D C D D D D D D D D D D C C C D D D C D D D C D C D C C C C C C D C D C D C D C D C D C D C D C D D D D D D D D C D D D C payoff of gtft2: 214
+
+sequence of gtft1: C D C C C C C C C C C C C C C C D C D D D D D D D D C D C C C C C C C D D D D D D C C C C C C C C C D C D D D D D D D C D C D D D C D C D C D D D D D D D D C C C D C D D C D D D D C D C D C D C C C C payoff of gtft1: 235
+sequence of gtft2: C C C C C C C C C C C C C C C C C D C D D D D D D D D C D C C C C C D C D D D D C D C C C C C C C D C D D D D D D D C D C C C D D D C D C D C D D D D D D C C C C C D D C D C D D C D C D C D C D C C C payoff of gtft2: 215
+
+sequence of gtft1: D D C D C C C C D C C C C D C C C C C C D D C C C C C C C C C C C D C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C D D D D D D D D D D D C D C C D D D C D C D C D C D C D D D D D payoff of gtft1: 252
+sequence of gtft2: D C D C C C C C C D C C D C D C C C C D D C D C C C C C C C C C D C D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C D D D D D D D D D C D C D C C D C D C D C D C D C D D D D D D payoff of gtft2: 247
+
+sequence of gtft1: D C D C D C D C D C C C C C C C C D D D C D C D C D C D D D C D C D C C C C D D C C D C D C D C C C C C C C C C C C D C D C D C C C C C C D C D C D D C C C C C C C C C D C D C D C D C C C C C C C C C payoff of gtft1: 261
+sequence of gtft2: C D C D C D C D C C C C C C C C D C D C D C D C D C D D D C D C D C C C C C D D C C C C C D C D C C C C C C C C C D C D C D C D C C C C D C D C D D D D C C C C C C C D C D C D C D C C C C C C C C C C payoff of gtft2: 261
+
+sequence of gtft1: D C D D D D D D D C D D C C C C C D C D C D C D C C C C C C C C C D C D C D C C C C C C C D C D C D C D C D C C D C C C C C C C C C C D C D C D C C C C C D C D C D C D C C C C C C D D C D C D C D D C payoff of gtft1: 259
+sequence of gtft2: C D C D D D D D C D C C D C C C C C D C D C D C D C C C C C C C C C D C D C D C C C C C C C D C D C D C D C D D C D C C C C C C C D D C D C C C C C C C C C D C D C D C C C C C C C D D D C D C D C D D payoff of gtft2: 254
+
+sequence of gtft1: C C C D C D D C D C C C D D C D D D D D C D C D C D C D C C C C D D D D C D D C C C C C D C D C D C D C D C D D D C D C D C D C C D C D D D D D C D D C D C C C C D C C C C C D D D D C C C C C C C C C payoff of gtft1: 239
+sequence of gtft2: C C C C D C D D C D C D D C D C C D D C D C D C D C D C C C C C D D D D D C D D C C C C C D C D C D C D C D C D C D C D C D C C D C D D C D D C D D C D C D C C D C D C C C C D D D D D C C C C C C C C payoff of gtft2: 234
+
+sequence of gtft1: C C C C C C C C C D C C D C D C D C D D D D C C C C C D D C D C D C C C D C D C D C C D C C C C C C C C C D C C C C C C C D C D D D D D D C C C C C C C D C D C D C D D D C D D C D C C C C C C C C C C payoff of gtft1: 254
+sequence of gtft2: C C C C C C C C D C C C C D C D C D C D D C D C C C C C D D C D C C C D C D C D D C D C D C C C C D C C D C D C C C C C D C D C D D D D C C C C C C C D C D C D C D C C D D D C D C D C C C C C C C C C payoff of gtft2: 259
+
+sequence of gtft1: C C C C C C C C C C C C C C C C C C C D C D C D C C C C C C C C C D C D D D C D C C C C C C C C C D C D D D D C C C D C D C D C D C D C D C C C C C C C C D C C C C C D C C C C D C D C D C C C C C D C payoff of gtft1: 265
+sequence of gtft2: C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C C C D C D D D C D C D C C C C C C C C C D D C D C D C D C D C D C D C D C D C D C C C C C C D C D C C C C C D C C D C D C D C D C C C C C D payoff of gtft2: 275
+
+sequence of gtft1: C C C C C C C C C C C C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C D C C C C D D D C D C D D D D D D D D C D C D C D C D C D C D C D C D C D C C D C D D D C D C payoff of gtft1: 256
+sequence of gtft2: C C C C C C C C C C C D D D D C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C D C D C C D C D C D D D C D D D D D D C D C D C D C D C D C D C D C D C D C C C C D C D C D C D payoff of gtft2: 256
+
+sequence of gtft1: C D C D C D C C C C C D C D C C C C C C C C C C C C D C C D C C C C D C D C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C D C D D D D D D D C C D C D D D D C D C D C D C C C C D C D C D payoff of gtft1: 270
+sequence of gtft2: C C D C D C C C C C D C D C C C C C C C C C C C C C C D D C D C C C C D C C C C C C C C C C C C C C C C C C C C C D C D C D C C C C C C C D D D D D D D D C C C D C D D C D C D C C C C C C D C D C D C payoff of gtft2: 255
+
+sequence of gtft1: C C C C C C C D C D C D C C D D D D C D C C C C C C C D C D D C D C C C C C C D C D D D C D D D D C D D D D D C C C D C D C D C D D D C C C D C D C D C C C C D C D C D C D C D C C C C C C D C C C C C payoff of gtft1: 250
+sequence of gtft2: C C C C C C D C D C D C C C C D D C D C C C C C C C D C D C C D C D C C C C C C D C D D D C D D D D D D D D C C C D C D C D C D D D C D C C C D C D C C C C D C D C D C D C D C D C C C C C C D C C C D payoff of gtft2: 245
+
+sequence of gtft1: C D C D D D D C C C C D C D C D D D D D D D D D D D D D D D D D C D C D C D C C C D C C C C D C D D D D D C D C D C D D D D C D C C C D C C C D C D C D C C C C C C C D C C C C C C C C C C C C C C C C payoff of gtft1: 219
+sequence of gtft2: D C D D D D D D C C D C D C D C D D D D D D D D D D D D D D D D D C D C D C D C D C C C C C C D C D D D C D D D C D C D D C D C D C D C D C D C D C D C C C C C C C C C D C C C C C C C C C C C C C C C payoff of gtft2: 234
+
+sequence of gtft1: C C C C C C C C D C D D D D C D C D C D C D C D D D D C C C C C C D C D C C C C C C C C D C D C D C D C D D D D D C C C D C D C C D C C C C C C C D C C D C C C D C D C D C D C D C D C C C C C C C C C payoff of gtft1: 244
+sequence of gtft2: D C C C C C C D C D C D D C D C D C D C D C D C D D D C C C C C D C D C D C C C C C D D C D C D C D C D C D D D C D C C C D C D D D C C D C C C C C D C C D C D C D C D C D C D C D C C C C C C C C C C payoff of gtft2: 264
+
+sequence of gtft1: C D D C C C C C C C D C C C D C D C C C C C C C C C D C D C C D C D C D D D D D C D D D D D D C D C C C D C D D D C C C C C D C D C D C C C D C D C D C C C C C C C C D C C D C D D D D D D D D D C D D payoff of gtft1: 241
+sequence of gtft2: D D C C C C C C C C C D C C C D C D C C C C C C C C C D C C D C C C D D D D D D D C D D D D D D C D C C C D C D D D C C C C C D C D C D C C C D C D C C C C C C C C C C D D C D C D D D D D D D C D D C payoff of gtft2: 231
+
+sequence of gtft1: C C C C C D C D C D C C C C C C C C C C C C C C D C D C C C C C D C D C D C D C C D C D C D C C C C C C C C C C C C C D C C D C D C D C C C C C C C C D C D D D D D C D C D C D C D D D C C C C C C C C payoff of gtft1: 243
+sequence of gtft2: C C C C C D D C D C D C C C C C C C C C C C C C C D C D C C C D C D C D C D C D D C D C D C D C C C C C C C C C C C D C D D C D C D C D C C C C C C D D D D D D D C D C D C D C D D D C D C C C C C C C payoff of gtft2: 278
+
+sequence of gtft1: C C C C C C C C C C D D C D C D C D C D C D C D D D D C D D C D C D D D D D D C D C C C C D C D C D D C D D C C C C C C C C C C D C D C D C D C C C D D D D C D C D C D C C C C C C D C D C C C C C D C payoff of gtft1: 247
+sequence of gtft2: C C C C C C C C C C C D D C D C D C D C D C D C D D D D D D D C D C D D D D C D C C C C D C D C D C D D C C C C C C C C C C C C C D C D C D C C C D D D D D D C D C D C C C C C C D C D C C C C C D C D payoff of gtft2: 242
+
+sequence of gtft1: C D C D C C C D C C D C C C C C C C C C C C C C C C D C D C C C D C C C C D C C D C C D C C C C C C C C C C C C C C C C C C D C D C D C C C C C C C C D D D D D D D C D C D C D D C C C D C D D C D C D payoff of gtft1: 275
+sequence of gtft2: D C C C C C C C C D C C C C C C C C C C C C C C C D C D C C C C C C C C C C C D C D C C D C C C C C C C C C C C C C C C C C C D C D C D C C C C C C D C D D D D D D D C D C D C D C C C C D D C D C D C payoff of gtft2: 255
+
+sequence of gtft1: C C C C D C D D D D C C C C C C C C D C D C C C C C C D D C D C D C D C D C D C D C D C D C D C D C D C D C D D D D D D D D D D D C D C D C D C C C D D D C D C D C C C C C C C D C D C C C C C D C C C payoff of gtft1: 232
+sequence of gtft2: C C C D C D D D D C D D C C C C C D C D C C C C C C C C D D C D C D D D C D C D C D C D C D C D C D C D C D D D D D D D D D D D C D C D C D C D C D C D C D C D C D C C C C C C C D C D C C C D C C C C payoff of gtft2: 247
+
+sequence of gtft1: C D C D C D C D C D D D D C D D D D D D C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C D C D C C C C C C C C D C D D D D D D C D C C C C C C C C C C C C C C C payoff of gtft1: 250
+sequence of gtft2: D C D C D C D C D D D D C D D D D D D D C C C C C C C C D C D C C C C D C C C C C C C C C D C C C C C C C C C C C C C C D C C D C D C D C C C C C C C C D C D D D D D D C C C C C C C C C C C C C C C C payoff of gtft2: 265
+
+sequence of gtft1: C C C C C C C C D C D C D C D C C C C C C C C C C D C D C D C D C D C C C C D C C D C D C D C D C D C D D C D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C D C D C C C C C payoff of gtft1: 251
+sequence of gtft2: C C C C C C C D C D C D C D C C C C C C C C C C D C D C D C D C D C D C C C C D D C D C D C C C D C D D D D C D D D D D D D D D D D D D C D C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C payoff of gtft2: 246
+
+sequence of gtft1: C C D D D D C D C D C D C D D C D C D C C C C C C C D C D D D D D D C D C C C D C D D D D D D C D C C D C D C D C D C D C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C D C C payoff of gtft1: 245
+sequence of gtft2: C D C D D C D C D C D C D D D C C D C C C C C C C C C D D D D D D D D C D C D C D D D D D D D C C D C C D C D C D C D C D C D C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C D C C C payoff of gtft2: 250
+
+sequence of gtft1: C D C D C D C C C C C C C C D C C C C D C D D D D D D C D C D C D C C C C C C C D C D D D D D D D C C C C C C C C C C C C C C C C C C C C D C C D C D C D D D C C C C C C D C D C C C D C D C D C D C D payoff of gtft1: 257
+sequence of gtft2: C C D C C C C C C C C C C D C C C C C C D C D D D D C D C D C D C D C C C C C D C D C D D D D D C D C C C C C C C C C C C C C C C C C C D C D D C D C D C D D D C C C C C C D C D C D C D C D C D C D C payoff of gtft2: 252
+
+sequence of gtft1: C D C D C D D D C C D C D D D D C D C C C D C C C D C C C D C C D C D C D C C C C C C C C D C D C D C C C D C C C C C C C C C C D C C C D C D C D C C C C C D C D C C C D C D C D C D D D D D D C D C D payoff of gtft1: 251
+sequence of gtft2: C C D C D D D D D C C D C D D C D C C C C C D C C C D C D C D D C D C D C C C C C C C C D C D C D C C C D C D C C C C C C C C C C C C C C D C D C C C C C C C D C D C D C D C D C D D D D D D D D C D C payoff of gtft2: 251
+
+sequence of gtft1: C D C C C D C D C D C D C D C D D D D C D C D C D C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C C D C D D D D D D C D D D D D D C D C C C C D C D D C C payoff of gtft1: 239
+sequence of gtft2: D C C C C C D C D C D C D C D D D D C D C D C D C D C D C C D C D C C C C C C C C C C C D C C C C C C C C C C C C C C C D C D C C C C C C C C C D C D D D D D D D D D D D D D C D C C C C D C D D C D C payoff of gtft2: 259
+
+sequence of gtft1: C C C C C C C C C C C D C D D D D D D C D C D C D C D C C C D C D C C C C D D C C C C C D C D D C C C C C C C C C D C C C C C C C D C D D C D C C C D C D D D D D D C D D D C C D C D C C C C C D D D D payoff of gtft1: 232
+sequence of gtft2: C C C D C C C C C C D C D D D D D D C D C D C D C D C D C D C D C D C C C D D D C C C C C D C D D C C C C C C C C C C C C C C D D C D D C D C C C C C D D D D D D C D C D D C D C D C C C C C C D D D D payoff of gtft2: 247
+
+sequence of gtft1: C C C C C C D C D D D D C D C C C C C D D D D D C C C D D D D D D C C C C C C C C C C C C C C C C C C D C D C C C D C D D D C C C C C D C D C D C D C D C D C C D C D C D C C C C C D C D C C D C C C C payoff of gtft1: 251
+sequence of gtft2: C C C C C C C D C C D D D C C C C C D D D D D C C C D D D D D D D D C C C C C C C C C D C C C C C C D C D C D C D C D C D D C C C C C C D C D C D C D C D C D C C D C D C C C C C C C D C D C C C C C C payoff of gtft2: 251
+
+sequence of gtft1: C D C D C D C D C C C C C C C C C C C C C C C C C D C D C C C C C C D C C C D C D C C C C D C D D D D C D D D D D D C D D D D D D D D C C C C C C D C D C C C C C C C C C C D C D C D C D C D C D C D C payoff of gtft1: 232
+sequence of gtft2: D C D C D C D C D C C C C C C C C C C C C C C C D C D C D C C C C D C C C C C D C D C C D C D C D D C D D D D D D D D D D D D D D D D D C C C C C C D C D C C C D C C C C D C D C D C D C D C D C D C C payoff of gtft2: 257
+
+sequence of gtft1: C C C C C D C C C D C C C C C D C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C D D D D D D C D C C C D D D D D D D D D D C D C D C D C D C D C D C C C C C C D C C C C C C D C payoff of gtft1: 252
+sequence of gtft2: C C C C D C C C C C C C C C D C D C D C D C C C C C C C C C C C C C C C D D C C C C C D C C C C C D C D C D C D D D D C C C C C D D D D D D D D D D C D C D C D C D C D C C C C C C D C C C D C C C C D payoff of gtft2: 257
+
+sequence of gtft1: C C C D D D D C D D D C C C C C D C D D C C C C C C C D C C C C C C C D C D D C C C C C C C C C C C C C C C C C C C C C C D D D D C D C C D C C C C D C D C D C C C C C C C C C D C D C D C C C C C C C payoff of gtft1: 254
+sequence of gtft2: C C D D D D D D D C C C C C C C C D D D D C C C C C D C C C C C C D C C D D D D C C C C C C C C C C C C C C C C C C C C D C D D C D C D C C D C C C C D C D C D C C C C C C C D C D C D C C C C C C C C payoff of gtft2: 269
+
+sequence of gtft1: C C C C C D C C C C C D C C C C C C D D D D D D C D C D D D D D C D D D D D D D C D C D C D C D C D C C D C D C D C C C C C C C C D C D C C C C C C C C C C C C C C C C C C D D C D C D C D C D C D C C payoff of gtft1: 251
+sequence of gtft2: C C C C D C C C C C D C C C C C C C D C D D D D D C D C D D D C D C D D D D D D D C D C D C D C D C C D C D C D C D C C C C D C C C D C D C C C C D C C C C C C C C C C C C C C D C D C D C D C D C C C payoff of gtft2: 246
+
+sequence of gtft1: C C C C D C C C C C C D D C C C C C C D C D C D C D C D C C C C C C D C D C D C D C D C D C D C D C D C D C C C C C D D D D D D D D D D D C C C D C D C D C D C C D C D C D D D C D D C C C C D C D C D payoff of gtft1: 242
+sequence of gtft2: C C C D C D C C C C D C D C C C C C C C D C D C D D D C D C C C C C C D C D C D C D C D C D C D C D C D C C C C C D C D D D D D D D D D D D C C C D C D C D C D C C D C D D D C D C C C C C C C D C D D payoff of gtft2: 242
+
+sequence of gtft1: C C C C C C C C C C C C C C C C C D C C C C C C C D C D C D C D C D C D C C C D C C D C D C D C D D D D D D D D D D D D D D D D D D D C D D D C D C C D D D D D C D C C C C C C C D C C C C C C C C D C payoff of gtft1: 243
+sequence of gtft2: C C C C C C C C C C C C C C C C D C C C C C C C D C D C D C D C D C D C C C C C C D C D C D C D D D D D D D D C D D D D D D D D D D D D C D C D C D D C D D C C D C C C C C C C C C C C C C C C D D C D payoff of gtft2: 233
+
+sequence of gtft1: C C C C C C C C C C D C D C D C D C C C C C C C D C D C D C D C C C C C C C D C D C D C D D D D D D D D D D C D C C C C C C C C C C C C C C C C C C C C D C D C D D C D C D C D C C C C C C D C C C C C payoff of gtft1: 252
+sequence of gtft2: C C C C C C C C C D C D C D C D C C C D C C C C C D C D C D C D C C C C C C C D C C C D D D D D D D D D D C D C C C C C C C C C C C C C C C C C C C C D C D C D D D D D D C D C D C C C C D C C C C C C payoff of gtft2: 262
+
+sequence of gtft1: C C C C D C D C D C C C C D D D C D C D C D C C C D C D C D C D C C C C D C C C C C C D C C C C D C C C C C C C D C D C D C C C C C C C D C D D C C D D C D C D C D C C C C C C C C D C C C C C D C D C payoff of gtft1: 253
+sequence of gtft2: D C C D C D C D C D C C C D D C D C D C D C D C C C D C D C D C C C C D C D C C C C C C D C C C C C C C C C C C C D C D C C C C C C C D C D D C D D D D D C D C D C D C C C C C C D C C C C C D C D C D payoff of gtft2: 273
+
+sequence of gtft1: C C D C D C C D C C C D C D C D C D D D D C D C D D D D D C D C C C C C C D C D C D C C C C D C D C D D C C D C C C D D D D D D D D D C D C D C D C C C D C D C D C D C D C D C C C C C C D C C C C C C payoff of gtft1: 234
+sequence of gtft2: C C C D C D D C C C C C D C D C D C D D D D C D D D D D D D C D C C C C C C D C D C D C C C C D C D D C C C C D C D D D D D D D D D D C C D C D C D C C C D C D C D C D C D D D C C C C C C C C C C C C payoff of gtft2: 239
+
+sequence of gtft1: C D C D C C D C C C C C C C C C D C D C C C C C C D D D D D D C C C D C D C C C C D C C C C C C C C C C D C D C D D D D D D C D C D D D D D C C C C C C D C D D D C C C C D C D C D C D C D C D C C C D payoff of gtft1: 250
+sequence of gtft2: D C D C D D C D C C C C C C C D C D C C C C C C D C D D D D C C C C C D C D C C C C C C C C C C C C C D C D C D C D D D D D D C D C D D D C D C C C C D C D C D C C C C C C D C D C D C D D D C C C D C payoff of gtft2: 245
+
+sequence of gtft1: C C C C D C D C C C C C C C D C D C D C D C C C D C D C D C D C C C C C C D C D D D D C D C C C C C C C C D C D C C C D C D C D C D D D D D D D D D C C C C C C D D C D C D C C C C C C C C C C C C C C payoff of gtft1: 252
+sequence of gtft2: C C C C C D C D C C C C C C C D C D C D C C C D C D D D C D C D C C C C C C D C D D C D C D C C C C C C C C D C C C C C D C D C C D D D D D D D D D C C C C C C D D D C D C D C D C C C C C C C C C C C payoff of gtft2: 252
+
+sequence of gtft1: C C D C D C C C C C C C C C C C C C C D D D D D C D C D C D C D C D C C C C C C C C C C D C D C D C D C D C C C C C D C D C D C D C D D D D D D D D D D C D C D C D C D C D C D C D C D C C C D D D D D payoff of gtft1: 229
+sequence of gtft2: C D C D C D C C C C C C C C C C C C C D D D D C D C D C D C D C D C D C C C C C C C C D C D C D C D C D C C C C C D C D D D C D C D C D D D D D D D D D D C D C D C D C D C D C D C D C D C D C D D D D payoff of gtft2: 244
+
+sequence of gtft1: C C C C C C C C C C C C C C C C D D D C D C C D C D C D C D C D C D C D D D D D D D D C D C D C D C D C D C C D C D D D D D D D D D D D D D D D D C C C D C C C C C D C D C D D D D D D D C D D C C C C payoff of gtft1: 208
+sequence of gtft2: C C C C C C C C C C C D C C C D D D C D C D C C D C D C D C D C D C D C D D D D D D D D C D C D C D C D C D C D D D D D D D D D C D D D D D D D C D C D C D C C C D C D C D C D D D D D C D D D C C C C payoff of gtft2: 223
+
+sequence of gtft1: C C C C C C C C C D C D C C C C C C D C D C D C D C C C C C C C C C D D D D D D D D D D D D D D D D D D D D D C D C D C D C D C D D D D C D C C C C C C D C C C C C C C C C C C D C D C D C C C C C C C payoff of gtft1: 227
+sequence of gtft2: C D C C C C C C D C D C D C C C C C C D C D C D C D C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D C D C D C D C D C D D D D C C C C C C D C C C C C C C C C C C C C D C D C D C C C C C C payoff of gtft2: 242
+
+sequence of gtft1: C C C C C C D C C C C C C C C C C D D C D C C C C C C C D D D C C D C C C C C C C C C C D C C C C C C C C C C C D C D C C C C C C C C C C D C D C C C C C D D C C C C C C C C D C D C D C D C D C D C D payoff of gtft1: 270
+sequence of gtft2: C C C C C C C D C C C C C C C C C D C D C C C C C C C D C D D C C C D D C C C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C D C D C D C C C D D C D C C C C C C C C D C D D D C D C D C D C payoff of gtft2: 275
+
+sequence of gtft1: C C C C C C C C C C C D C C C C C C D C D C D C D C C C D C C D C C C C C C C C C C C C D C C C C D C D C C D C D C D C C C C C C C C C C C C C C C D C D C D D D D D D D D D D D C D C D C D C D C D D payoff of gtft1: 248
+sequence of gtft2: C C C C C C C C C C C C D C C C C C C D C D C D C D C C C D C C D C C C C C C C C C D D C D C C D C D C C C C D C D C D C C C C C C C C C C C D C D C D C D C D D D D D D D D D D D C D C D C D C D C D payoff of gtft2: 263
+
+sequence of gtft1: C C C C C C D C C C C C D C D C D C D C D C D C C D C C D D C D C C C C C C D D D C D D C D C D C D D D C D C C D C D C D D D D D D D C D C C C C C D C C C C C C C D C D C C C C D C D C D D C D C C C payoff of gtft1: 263
+sequence of gtft2: C C C C C D C C C C C C C D C D C D C D C D C C C C C D D C D C C C C C C C D D C D D C D C D C D C D D D C C D C D C D C D D D D D C D C C C C C D C D C C C C C C C D C C C C C C D C D D C D C C C C payoff of gtft2: 238
+
+sequence of gtft1: D C D C C C D C D C C C C C C C C C C C C C C D C D C D D D C D D C D C D C D C D C C D C D C D C D C C C C C C C C D C D C D C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of gtft1: 269
+sequence of gtft2: C D C D C D C D C D C C C C C C C C C C C C D C D C D C D C D D D D C C C D C D C C D C D D D C D C C C C C C C C C C D C D C D C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of gtft2: 274
+
+sequence of gtft1: C C C C C D C D C C D C D C D C C C C C C C C D C D D D C D C C D C D C D C C C C C C C D C D C D C D C D C D D C D D D D D D C D C D C D C D C C C C C D D D D D C C C D C C C C C C C D D C C C C C D payoff of gtft1: 253
+sequence of gtft2: C C C C D C D C D C C D C D C C D C C C C C C C D D D C D C C C C C C D C C C C C C C D C D C D C D C D C D D D D C D D D D D D C C C D C D C D C C C C C D D D C C C D C D C C C C C C D D C C C C D C payoff of gtft2: 243
+
+sequence of gtft1: C C C C C C C C C D C D C C C C C C C C C C C D C C C C C D C D C D C D D C D D D D D D D C D D D C D D C C C C D C D C C C D C D C D C D C D C D C D C D C D C D C C C C C C C C C C C C C C C C C C C payoff of gtft1: 262
+sequence of gtft2: C C C C C C C C D C D C D C C C C C C C C C C C C C C C D C D C D C D D D D C D D D C D D D C D D D C C C C C D C D C C C D C D C D C D C D C D C D C D C D C C C D C C C C C C C C C C C C C C C C C C payoff of gtft2: 257
+
+sequence of gtft1: C C C C C C C C C C C C C C C C C C D C C C C C C D C D C C D C C C C C C C C D C D C C C D D D C D C D C C C C C C C C C D C D C C C D D C D C D C D C D C C C C C D C C C C C C C D C D D D D D D D C payoff of gtft1: 258
+sequence of gtft2: C C C C C C C D C C C C C C C C C C C D C C C C D C D C D D C C C C C C C C D C D C D C C C D D D C D C C C C C C C C C C C D C D C C C C D C D C D C D C D C C C D C D C C C C C C C D D D D D D D C D payoff of gtft2: 268
+
+sequence of gtft1: C C D C C D C D C C C C C C C C D C D C D C C C C C D C C C C C C D C D C D D C D C D C C D C D D D D D D D D D D D C D D C C C C C D C D D D D C D C D C D C D C D C D C D C D C C C D C D C C D D D D payoff of gtft1: 244
+sequence of gtft2: C C C C D C D C C D C C C C C D C D C D C C C C C C C D C C C C C C D C D D C D C D C D D C D C D D D D D D D D D C D D C D C C C D C D C D D C D C D C D C D C D C D C D C D C D C C C D C C C C D D D payoff of gtft2: 234
+
+sequence of gtft1: C C C C C C C C D C C C C C C C C C D D D D C D C D C D C D C D C D C C C C C C D C D C D C D D D D D D D D D C D C D C D C C C C C D C C D C D C D C D C C C C C C D C D D C D C D C D C C D C D C D C payoff of gtft1: 240
+sequence of gtft2: C C C C C C C D C D C C C C C C C C D D D C D C D C D C D C D C D C D C C C C C C D C D C D C D D D D D D D C D C D C D C C C C C C C C D D D C D C D C D C C C C C C D C D D C D D D C D C C D C D D D payoff of gtft2: 250
+
+sequence of gtft1: C C C C D C C C C C C C D D C D D D D D C D C D C C C C C D C D C D C C C C C C C C C C C C D C D C D C D C D C C C C C C C C C C C C C D C C C C D C C C C C C C C D C D C D C D C D C C C D C C C C C payoff of gtft1: 266
+sequence of gtft2: C C C C C D C C C C C D C C D D D D D D D C D C C C C C C C D C D C C C C C C C C C C C C C C D C D C D C D C D C C C C C C C C C C C D C D C C D C D C C C C C C D C D C D C D C C C D C C C D C C C C payoff of gtft2: 271
+
+sequence of gtft1: C C C D C C C C D C D C D C D C D D D D D D D D D D D D D D D D D D D C C C D C C C C C C C C C C D D D C D C D C C C C C C C C C C D C D C D C C C C C C C D C D C D D D D D D D D C C D C D C C C C C payoff of gtft1: 239
+sequence of gtft2: C C D C D C C C C D C D C D C D C D D D D D D D D D D D D D D D D D C C C D C C C C C C C C C C C D D C D C D C C C C C C C C C C D C D C D C D C C C C C C C D C D C D D D D D D C C D C D C C C C C C payoff of gtft2: 224
+
+sequence of gtft1: C C C C C C D C D D D D D D C D C D C C C C C D C D C D D C D C D C C C C C D C D C C C C C D D D D D D D D C D C D D D D D C D C D C D C C C C C C C C C C C C C C C D C D C C C D C D C D D D D D D D payoff of gtft1: 222
+sequence of gtft2: C C C C C C C D C D D D D C D C D C D C C C D C D C D D C D C D C C C C C C C D C D C C C D C D D D D D D D D C D D D D D D D C D C D C D C C D C C C C C C C C C C C C D C D C D C D C D D D D D D D D payoff of gtft2: 237
+
+sequence of gtft1: C C C D D C D D C D C D C D C C C C C C C C C C D C D D D D D D C D C D C C C D D D D D C D C D C C D C D C D C D D D D C D D C C C C C D C C C C C C C C C C C C C C D D C D C D D C D C D C D D D D D payoff of gtft1: 233
+sequence of gtft2: C C D D D D D D D C D C D C C C C C C C C C C C C D D D D D D D D C D C C C D D D D D C D C D C C C C D C D C D C D D C D D C D C C C D C D C C C C C C C C C C C C C C C D C D C C D C D C D D D D D D payoff of gtft2: 233
+
+sequence of gtft1: C D C D C D C C C C C C C C C D C D C C D C D C C D C C C C C C C C C C C C C C C D C D C C C C C C C D C D C D C C C C C C C D C D C D C D C C C C C C D C D C D D D D C D C D C D C D C D C D C D C D payoff of gtft1: 253
+sequence of gtft2: C C D C D C C C C C C C C D D C D C D D C D C D C C D C C C C C C C C C C C C C D C D C C C C C C C D C D C D C D C C C C C C C D C D C D C D C C C C D C D C D D D D C D C D C D C D C D C D C D C D D payoff of gtft2: 273
+
+sequence of gtft1: C D C D C D C D C D C C D C D C D C D C C C C C C D C D C D C D C D D D D D D C D D C C D C D C D C D C C C C C D D D D D D C C C C C C C C C C C C C C C C D C D C D C C C C D C D D D C D C D C D C C payoff of gtft1: 241
+sequence of gtft2: C C D C D C D C D C D D C D C D D D C D C C C C D C D C D C D C D D D D D D C D C C D C C D C D C D C D C C C D C D D D D D C C C C C C C C C C C C C C D D C D C D C D C C C C D C D C D C D C D C C C payoff of gtft2: 251
+
+sequence of gtft1: C C C C C C C C D C C D C C C C C C C C D D C D D C D C D C D C C C D C D C D C D C D C C D C D D D C D C D D C D C D C D C C C C D C D C D C C C C C C C C C C C D D D D D D D D D D D D D C D C D C D payoff of gtft1: 237
+sequence of gtft2: C C C C D C C D C C D C C C C C C C C C C C D D D D C D C D C C C D C D C D C D D D C D C C D C D C D C D D C D C D C D C C C C D C D C D C D C C C C C C C C C D C D D D D D D D D D D D D D C D C D C payoff of gtft2: 242
+
+sequence of gtft1: C C C C C C C C C C C C C D C D D C D D C C C C D C D C D C C C C C C C C C C D C C C C C C C C C D C C C C C C C D C D C D C D C D C D C C C C C C C C D C D C D C C D C D C C C C C C C C C C C C C C payoff of gtft1: 273
+sequence of gtft2: C C C C C C C C C C C C C C D D C D D D C C D D C D C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C D C D C D C D C D C D C C C C C C C C D C D C D D C D C C C D C C C C C C C C C C C payoff of gtft2: 278
+
+sequence of gtft1: C C C C C C C C C C C C D C D C D C D C D D D C D C D C C C D D D C C D C C C C D D D D D D C C C C C C C C C C C C C C C D C C C C C C C C C D D C C C C C C D C D C D C D C D C C D D D D C D C D C D payoff of gtft1: 233
+sequence of gtft2: C C C C C C C C C C C C C D C D C D C D C D D D C D C D C D C D D D C C D C C D D D D D D C D C C C C C C C C C C D C D D C C C C C C C C C C D C D C C C C C C D C D C D C D C D D D D D D D C D C D D payoff of gtft2: 263
+
+sequence of gtft1: C C C C D C D D D D D C D C D C D C D C D C D C C C C D C D C C C C C C D C D C C C D C D C C C D C D D D D D D D C D C D C C C C C C C C D C D C D C C C C D C D C C C C C C C C C C C C C D C D D D D payoff of gtft1: 253
+sequence of gtft2: C C C C C D C D D D C D C D C D C D C D C D C C C C D C D C C C C C D D C D C D C C C D C C C D C D C D D D D D D D C D C D C C C C C C D C D C D C C C C D C D C C C C C C C C C C C C C C C D C D D D payoff of gtft2: 248
+
+sequence of gtft1: D C D C C C C C C C C D C D C D C C C C C D C D D D D C D C C C C C C C C D C D D D C D C C C C C C C C D C C C C C C C C C C D C C C C D C D C D C D C D C C C C C C C C D C D C D C D C D C C C C C D payoff of gtft1: 272
+sequence of gtft2: C D C D C C C C C C C C D C D C C C C C C C D C D D D D C D C C C C C C C C D C D C D C D C C C C C C C C C C C C C C C C C C C D C C C C D C D C D C D C D C C C C C C C C D C D C D C D C D C C C D D payoff of gtft2: 262
+
+sequence of gtft1: C D C D D C D D C D C C C C C C C C C C C C D C D C D C D C C C C C C C C C D C C C C C C D C D C D C D C C C C C C C C D D D D C D D D D D C C C C C C C C C C C D C D C C D C D C D D C D D D D D D D payoff of gtft1: 250
+sequence of gtft2: C C D C C D D C D C D C C C C C C C C C C D C D C D C D C C C C C C C C C D C D C C C C D C D C D C D C C C C C C C C C D D C D D D D D D D C C C C C C C C C C D C D C C C C D C D C D D D D D D D D C payoff of gtft2: 245
+
+sequence of gtft1: C C D C C C C C C C C C D C C C C C C C C D C D C D C D C D C D C D D D C D C D C C C C D C D C C C C C C C D C D C D C C C C D C D C D C D C C D C D C C C C C D C D C D C C C C C C C C D C C C C C C payoff of gtft1: 269
+sequence of gtft2: C C C C C C C C C C C D C D C C C C C C C C D C D C D C D C D C D D D D D C D C D C C D C D C C C C C C C C C D C D C D C C D C D C D C D C C D C D C C C C C C C D C D C C C C C C C C C C D C C C C C payoff of gtft2: 269
+
+sequence of gtft1: C D D C C C D C D C C C C C C D D C C C C C C C C D C D C D C D D D D D D C D C C C D C D C D C D C D C D C D D D D D D D D D D C C C C D C D C D C C C C C C D C D C D C D C C D C C C C D C C D C D C payoff of gtft1: 247
+sequence of gtft2: D D C C C D C D C C C C C C C C C C D C C C C C D C D C D C D D D D D D D D C D C C C D C D C D C D C D C D C D D D D D D D D D C C C C C D C D C C C C C C C C D C D C D C C D C C C C C C D C C D C D payoff of gtft2: 237
+
+sequence of gtft1: C C C D C D C D C D D C D C D C C C D C D C D C D C C D C C C C C C C D C D C C C C D C C C C C D C D C D C C D C D C C C C C C C C C D C C C C D C D C D C D C C C C C C C C C D D C D C D C D C D C D payoff of gtft1: 274
+sequence of gtft2: C C D C D C D C D C C D C D C C C D C D C D C D C C D C D C C D C C C C D C C C C C C C C C C D C D C D C C D C D C C C C C C C C C D C D C C C C D C D C D C D C C C C C C C C C C D C D C D C D C D C payoff of gtft2: 264
+
+sequence of gtft1: C D C D C D C C D C C C C C C C C C C C C D C D C D C D C D C D C C C C C C C C C C C C D C D C C C C C C C C C C C C D C C C C C D C C D C D C C C C D D D D D D D C D D C D C D C C C C C D D C C C C payoff of gtft1: 263
+sequence of gtft2: C C D C D C D C C D C C C C C C C C C C C C D C D C D C D C D C C C C C C C C C C C C C C D C D C C C D C C C C C C D C D C C C D C D C C D C C C C C D D D D D D C D C D D C D C D C C C C C D C C C C payoff of gtft2: 263
+
+sequence of gtft1: C C C C D C D C D D D D D D C C C C C C D C D C D C D C C C D D D C C C C D C C C C C C C C D D C D C D C D D D D C C C C C D D C D C D D C C C C C C D C D C D C C C C C C D D D D C D C C C C C C D C payoff of gtft1: 233
+sequence of gtft2: C C C D C D C D C D D D D D C C C D C D C D C D C D C C C D D D D D C C D C D C C C C C C D C D D C D C D C D D D D C C C D C D D C D C C D C C C C C C D C D C D C C C C C D D D D D C C C C C C C C C payoff of gtft2: 253
+
+sequence of gtft1: C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C D C D C D D D D D D D D D D D D D D D C D C D C C C D D C D D D C C C D C C C D C D C D C D C C C C C C C C C C C C C C C C C D C D C C D C payoff of gtft1: 261
+sequence of gtft2: C C C C C C C C C C C C C C C C C C C D C C C C C D C D C D C D C D C D D D D D C D D D D D D D C D C D C D C D D C D C D C C C C C C C C C D C D C D C C C C C C C C C C C C C C C C C C C D C D D C C payoff of gtft2: 246
+
+sequence of gtft1: C C C C C D D D D C C C C C C D C D C D C D C D D D D D C D C C C C C D D D D C D C D C C D C D C C C C C C C C C C C C C C C C D C D C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C D C payoff of gtft1: 254
+sequence of gtft2: C C C C C D D D C D D C C C D C D C D C D C D C D D D C D C C C C C C D D D D D C D C C D C D C C C C C C C C C C C C C C C C D C D C D C D D D C C C C C C C C D C D C C C C C C C C C C C C C C C C C payoff of gtft2: 269
+
+average payoff of gtft1: 251.05	average payoff of gtft2: 253
+average payoff of slave: 285.7	average payoff of ctft: 87.75
+average payoff of master: 296.34	average payoff of gtft: 84.94
+sequence of ctft1: C C C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C payoff of ctft1: 283
+sequence of ctft2: C C C C D C C D C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C D C C C C D C C C C C C C C C D C C C C C D C C C C C C C C C C C D C C C C C C C C payoff of ctft2: 298
+
+sequence of ctft1: C C C D C C D C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C payoff of ctft1: 287
+sequence of ctft2: C C C C D C C D C C C C C C C C C D C C C C C C C D C C C C C C C C C C C D C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 297
+
+sequence of ctft1: C C C C C D C D C C C C C C C D C D C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C D D C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C payoff of ctft1: 284
+sequence of ctft2: C C C C D C C C C C C C C C C C C C D C C C C C C C C D C C C C C D C C C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C D C C D C C C C D C D C payoff of ctft2: 289
+
+sequence of ctft1: C D C C C C C C C C C C D C C C C C C C D C D C C C C C C D C C C D C C C C C C D C C C C D C C C C C C C C C C C D C C C C C C D C C C C C C C C D D C C C C C C C C C C C D C C C C C C C C C C C C C payoff of ctft1: 294
+sequence of ctft2: D C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C D C C D C D C C C C C C C C payoff of ctft2: 279
+
+sequence of ctft1: C C C C C C C C C C C C C C C C D C D D C C C C C C C C C C C C C C C D D D C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C D payoff of ctft1: 287
+sequence of ctft2: C C C C C C C C C C C C C C C D C D C C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D D C C C C C D C C C C C C C C C C D D C C C C C C D C C payoff of ctft2: 292
+
+sequence of ctft1: C C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C C C C D C C C C C C C C D C C D C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C payoff of ctft1: 301
+sequence of ctft2: D C C C C C C C C C C C D C C C C C C C C D C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C payoff of ctft2: 281
+
+sequence of ctft1: C C C C D C D C C C D C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C D C D C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C D C C C D C D C C C D C C C C C C C payoff of ctft1: 289
+sequence of ctft2: C C C C C C C D C C C D C C C D C C C C C D C C C C C C C C C D C C C C C D C C C C C C C D C C C C D C C C D C C C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C payoff of ctft2: 279
+
+sequence of ctft1: C C C C D C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C D C C C C C C C C C C D C C C C D C C C C C C D C C C C C C D C D C C C C payoff of ctft1: 286
+sequence of ctft2: C C C C C D C D C C C C C C C C D C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C D C C C C C C C D D C C C C D C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 286
+
+sequence of ctft1: C C D C C C C C C C C C D C D C C C C D C C C C C D C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C D C C C D C C C C C D C C C C C C D C C C C C C C C C C C C C C C payoff of ctft1: 296
+sequence of ctft2: C D C C C C C C C C C D C D C C C C C D C C C C C C C C C C D D C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C payoff of ctft2: 281
+
+sequence of ctft1: C C C C D C C C C D D C C C C C C C C C C D C C C C D C D C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C D C D C C D C payoff of ctft1: 284
+sequence of ctft2: C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C D C D C C C D C D C C D C C C C C C C C C C C C C C D D C D D C C D C C C C C D payoff of ctft2: 284
+
+sequence of ctft1: C C D C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C D C D C payoff of ctft1: 279
+sequence of ctft2: C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C D C D C C C C D C C C D C C C C C C C C C C C D D C D C D C C C C C C C C C C C C C D C payoff of ctft2: 299
+
+sequence of ctft1: C C C C C C C C C C C C D C C C C C C C C C D C C C D C C D C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C D C C C C D C C C payoff of ctft1: 302
+sequence of ctft2: C C C C C C C C C C C D C C C C C C C C C C C D C C C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 282
+
+sequence of ctft1: C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C D C C C C C C D C C payoff of ctft1: 290
+sequence of ctft2: C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C D C D C C payoff of ctft2: 290
+
+sequence of ctft1: C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C D C C C C C C D D C C D C C C C C C C C C C C C C C C C C C C C D D C C C C C C C C C C C C C C C D D C C D C C C D C payoff of ctft1: 289
+sequence of ctft2: C C C C C C C C C C D C D C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C D C C C D C D C D C D C C C C C C D payoff of ctft2: 284
+
+sequence of ctft1: C D C C C C C C C D C D C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C D C C C C D C C C C C C C D C C C C C C D C C C C C C C C C C C C C D C C C C C D D C C D C C C C D C D C C D C payoff of ctft1: 316
+sequence of ctft2: C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 261
+
+sequence of ctft1: C C C C C C C C C C C C C C D C C C D C C C C C C C C C D C D C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C D C C C D C C C D C C C C C C C C C C C C C C C D C C C C C C D C C C C payoff of ctft1: 304
+sequence of ctft2: C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C C C C payoff of ctft2: 279
+
+sequence of ctft1: C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C C C C C D C C C C C C C D D D C C C C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C payoff of ctft1: 297
+sequence of ctft2: C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C payoff of ctft2: 287
+
+sequence of ctft1: C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C D C D D C C C D C D C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C payoff of ctft1: 289
+sequence of ctft2: C C C C C C C C C C C D C C C C D C C C C C C C C C C D C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C D C D C C C C C C C C C C payoff of ctft2: 289
+
+sequence of ctft1: C D C C C C C C C D C C C C C C C C C C C D C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C D C D C C C D C C C C D C payoff of ctft1: 300
+sequence of ctft2: D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C D D C C C C C C C C C C payoff of ctft2: 280
+
+sequence of ctft1: C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C D C C C C C D C C C C C C C D C D C D C C C C C C C C C C C C C C payoff of ctft1: 285
+sequence of ctft2: C C C C C C C C C C C C D C C C C C C D D C C C C C C D C C C C C C D C C C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C D C C D C C C C C C payoff of ctft2: 295
+
+sequence of ctft1: C C C C C D C C C C C C D C C D C C C C C C C D C C C C C C D C C C D C C D C C C C C C C C D C C D C C D C C C C C C D D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C D C C payoff of ctft1: 296
+sequence of ctft2: C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C D C C C C C C C C C C C D C C C C C D C D C C C C C C C C C C C C D C C C C C D C C D C C C C C C C C C C payoff of ctft2: 276
+
+sequence of ctft1: C D C C C C C C C D C C C C C C D C C C C C D C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C payoff of ctft1: 285
+sequence of ctft2: C C D C C C C D D D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D D D C C C C C C C C C C C C C C C C C C C payoff of ctft2: 295
+
+sequence of ctft1: C C C C C C D C C C C C D C C C C D C C C C C C D D C C C C C C D C D C C C C C C D C D D C C C C C C C C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C D C C D C C C C C C C C C payoff of ctft1: 304
+sequence of ctft2: C C C C C D C C C C C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C payoff of ctft2: 274
+
+sequence of ctft1: C C C C C D D C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C payoff of ctft1: 280
+sequence of ctft2: C C C C D C C D C C C C D C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C D C C C C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C payoff of ctft2: 305
+
+sequence of ctft1: C C C C C C C C C C C D D C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C D C C D C C D C C C C C C C D C C C C C C C C C D C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 288
+sequence of ctft2: C C C C C C C C C C C C D D C D C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C C C C D C C D C C D C D C C C C C C C C C payoff of ctft2: 288
+
+sequence of ctft1: C D C D C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C D C C C C C C C C C D C C C C C C D C C C D C C C C C C D C C D C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 302
+sequence of ctft2: D C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C payoff of ctft2: 277
+
+sequence of ctft1: C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D D C C C C C C D C C C C C C C C C C C D C C C D D C C C C C C C C C D C C C C C C C C C D C C D C C C C C C C C C payoff of ctft1: 298
+sequence of ctft2: C C C C C C C C C C D C C C C C C C C C C C D D C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C payoff of ctft2: 283
+
+sequence of ctft1: C D D D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C D C C C C C C D C C C C C D C C D C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 306
+sequence of ctft2: D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C payoff of ctft2: 276
+
+sequence of ctft1: C C D C D C C D C C C C D C C C C C C C C D C C C C C C C C C C C C C C C C C D C C D C C C C C C D C D C C C C C C C C C C C C C C C C C C D C C C C C C D C C D C C C D D C C C D C C C C C D C C C C payoff of ctft1: 289
+sequence of ctft2: C C C D C D C D D C C C C C D C D C C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C D C C C D C C C C C C C C C C D C C C C C C C C C D C C payoff of ctft2: 279
+
+sequence of ctft1: C C C C C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 276
+sequence of ctft2: C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C D C C C C C C D C C C D D C D C C D C C C payoff of ctft2: 306
+
+sequence of ctft1: D C C C C C C C C C C C C C C C C C C C C C C C C D D D C C C C C C C C C C C C C D C C C C C C C C D C C C C C C D C C D C C C C D C C C C C C D C C D C C C C C C C C C C C C C C C D C D C C C C C C payoff of ctft1: 293
+sequence of ctft2: C D C C C C C C C C C C C C D C C C C C C C C C C C D D C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C payoff of ctft2: 278
+
+sequence of ctft1: C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C C D C C C C C C C D C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C D C C D D C D C C C C C C D C C C C C C C payoff of ctft1: 289
+sequence of ctft2: C C C C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C D C C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C C D D C C C C C D C C C C D C C C C C C C C D C C C C C payoff of ctft2: 284
+
+sequence of ctft1: C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C D C D C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C payoff of ctft1: 290
+sequence of ctft2: C C C D C C C C C C D D C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 290
+
+sequence of ctft1: C C C C C C D D D C C D C C C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C D C C C C payoff of ctft1: 284
+sequence of ctft2: C C C C C D D D C C D C C C C C C C C C D C C D C C C C C C C C C C C D D C C C C C C C C C C D C C C C C C D C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 289
+
+sequence of ctft1: C D C C D C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C D C C C D C C C D D C C C C C C C C C D D C D C C C C C C D C C C C C C D D C C C C C C C C C C C C C D payoff of ctft1: 259
+sequence of ctft2: C C D C C D C C C C D D C D C C C C C C C C C C C C C D C C C C C C D C C C D D C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C D D D D C C C D D D C D C C C C C D C D D C C C D payoff of ctft2: 294
+
+sequence of ctft1: C C C D C C C C C C C C C C C C C C C D C C D C C C D C C C C C C C D D C C C D C C C C C C C C C C C C D C C C C C C C D C C C C C C D C D C C C C C D C C C C C C C C C C C C C C C D C C C C C C C C payoff of ctft1: 308
+sequence of ctft2: C C C C C C C C C D C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D payoff of ctft2: 273
+
+sequence of ctft1: C C D D C C C C C C C C C C C C C D D C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C D C D C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 280
+sequence of ctft2: C C C D D D C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C D D C D C C D C C D C C C C C C C C C C C C D C C payoff of ctft2: 295
+
+sequence of ctft1: C C D C C C C C C C C C C D D C C C C C C C C C C C C D C C C C D C C C C C C C C D C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C D C C D D C C C C C C C C C payoff of ctft1: 286
+sequence of ctft2: C C C D C C C C D C C D C C C C D D C C C C C C D C C C C C C C C C C D C C C C C C C C C C D C D C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C D C payoff of ctft2: 286
+
+sequence of ctft1: C C C C C D C D C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C D C C C D C C C C C C C C C C D D C D C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C D C C C C C payoff of ctft1: 290
+sequence of ctft2: C C C C D C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D C C D C C C C C C C C C C C C C D C C C C C C D C C D C C C C C D C C D C C C C C C C C C C C C C C C C C payoff of ctft2: 285
+
+sequence of ctft1: C C C C C D C C C D C C C C C C C C C D D C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C D C C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 287
+sequence of ctft2: C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C D D D C C D C C C C C C C C D C C D C C C C C D C C C C C C C payoff of ctft2: 292
+
+sequence of ctft1: C C C C C C C C C D C C C D D C C C C C C C C C C C C D D C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C C C C D C C C C C C D C C C C C D C C C C C C C C C C C C C C C payoff of ctft1: 289
+sequence of ctft2: C C C C C C C C D C C C D C D D D C C C C C C C C C C C C D D D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C payoff of ctft2: 289
+
+sequence of ctft1: C C C C C C C D C C C D C C C C D C D C C C C C C C D C C C C C C C C C C C C C C C D C C C C C C D C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 285
+sequence of ctft2: C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C C C C C C D C C D C D C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C D C C C C C D C C C C C C C C C payoff of ctft2: 295
+
+sequence of ctft1: C C C C D C C C C C C C C C C C C D C C C C D C C D C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C D C C C payoff of ctft1: 279
+sequence of ctft2: C C C C C D C C C C C C C C C C C D C C C C C D C C D C C C C C D C C D D C C D C C D C C C C C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C payoff of ctft2: 294
+
+sequence of ctft1: C C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C C D C C C C D C D C C C C D C C C C C C C C C C C C C D C D D C C C C C C C C C C C C C C C C C payoff of ctft1: 288
+sequence of ctft2: C C D C C C C C C C C C C C C C C D D D C C C C C C C C C C C C C C C C C D C C D C C C C C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C D C C C C payoff of ctft2: 288
+
+sequence of ctft1: D C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C D C C C D C C payoff of ctft1: 308
+sequence of ctft2: C D C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C payoff of ctft2: 278
+
+sequence of ctft1: C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D D C C payoff of ctft1: 294
+sequence of ctft2: C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C payoff of ctft2: 294
+
+sequence of ctft1: C D C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D D C C C C payoff of ctft1: 264
+sequence of ctft2: D C C C C C C D C C D C C D C C C C C D C D C C C C C C C C D D C C C C D C C D C C C C C C C C D C C C C C C C C D D C C C C C C C C D D C C C C C C C C C D C C C C C C C D C C C C D C C C C C C C C payoff of ctft2: 309
+
+sequence of ctft1: C C C C C C C C D C D C C D C C D C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C payoff of ctft1: 291
+sequence of ctft2: C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C D C payoff of ctft2: 291
+
+sequence of ctft1: C C D C C C C C D D C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C D C C D C C C C C C D C C D C C C C C C D C C C C C C C C C C C C C C C C D C payoff of ctft1: 293
+sequence of ctft2: C D C C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C C C C C D C C C C C C D C C C C C C C C C D D C C D C C C C C C C C C D C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 283
+
+sequence of ctft1: C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C C payoff of ctft1: 274
+sequence of ctft2: C C C C C C D C C C C C C C D C C D C C C C C D C C C D C C C D C C C C C C C D C C C D C D C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C payoff of ctft2: 304
+
+sequence of ctft1: C C C C C C C C D C C C C C C D C D D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 274
+sequence of ctft2: C C C C C C C C C D C C C C C C D C D D C C C C C C C C C C C C D C C D C C C C C C D D C D C C C C C C D C C D C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 304
+
+sequence of ctft1: C C D C D C D C C C C C C C C C C D C C D C C C C C C C D C C C C C D C C C C C D C C C C C C C C C C C C C D C C C C C D C C C D C C C D C C C C C C C C C C C C C D C C C C C D C C C D C D C D D C C payoff of ctft1: 304
+sequence of ctft2: C D C D D D C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D D D C C C C payoff of ctft2: 264
+
+sequence of ctft1: C D D C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C D D C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C payoff of ctft1: 284
+sequence of ctft2: D C C C C C C C D C C C C C C D C C C C C C C C C C C C D C C D C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C C D C D C C D C C C C payoff of ctft2: 289
+
+sequence of ctft1: C C C C C D C C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 262
+sequence of ctft2: C C C C C C D C C C C D C C C C C D C C C C C C C C D C D D D D C C C C C D C C C C C C C C C C C C C C C D D C D C C C D C C C C D D C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C D C D payoff of ctft2: 307
+
+sequence of ctft1: C C C C C C C C C D D D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C D C C C C C C C C C C C C D C C C C C C D C C D C C D C D C D C C C C C C C C C C C C D C C C C C C C C C C C payoff of ctft1: 300
+sequence of ctft2: C C C C C C C C C C D D D D C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C payoff of ctft2: 275
+
+sequence of ctft1: C D C C D C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 276
+sequence of ctft2: C C D D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C D C C C D C C C C C D C C C C C C C C C D C payoff of ctft2: 311
+
+sequence of ctft1: C C C C D C C C C C D C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 276
+sequence of ctft2: C C C C C C C C C C C D C C C C C C C C C D C C C C D C C C C C C D C C C D C C C C D C C D C C C C C C C C C C C C C D C C C C C C C C C C D C C C D C C D D C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 306
+
+sequence of ctft1: C C C D C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 290
+sequence of ctft2: C C C C D C C C C D C C C D C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C payoff of ctft2: 295
+
+sequence of ctft1: C C C C C C C C C C C C C C C D C D C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C D C C C C C C C C C C C D C C C C C C D C C C C C C C payoff of ctft1: 288
+sequence of ctft2: C C C C C C C C C C C C C C D C D C C C C C C C C C C C C D C C C C D D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C D D C C C C C C C D C C C C C C C C C C C C C C C C C C payoff of ctft2: 293
+
+sequence of ctft1: D C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C D C C C C C C C payoff of ctft1: 274
+sequence of ctft2: C D C C C C C C C C C D C C C C C C C D C C C C C D C C C C C C C C C C C D C C C C C C C C C C C D C C C D D C D C C C C C C D D C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D payoff of ctft2: 304
+
+sequence of ctft1: C C C D C C C C C D D C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 275
+sequence of ctft2: C C C C D C C D C C C D C D C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C D C C C C C C D C C C D C C C C C C C C D C C C C C C C C C C payoff of ctft2: 305
+
+sequence of ctft1: C C C C D C D C C D C D C C C C C C D D C C C C C C C C D C C C C C C C C C C D C C C C C C D C D C C C D C C C C C C C C C C C C C D D C C C C C D C C D C C C C C C C C C C C D C C C C C C C C C C C payoff of ctft1: 274
+sequence of ctft2: C C C D C C D C C C C C C C D C C C C C D C C D D C C C C C C C C C C C C C C D C C C C C C C C C C C C D D C C C C D C C C C C C C D C C C D C C C D C C C D C C D C C D C C C C C C C C D C C C C D C payoff of ctft2: 284
+
+sequence of ctft1: C C D C C C C D C C C C C C C C D C C C C C C C D C D C C C C C C C C C C C D C C C C C D C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D payoff of ctft1: 295
+sequence of ctft2: C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C C C C D C C C C C C C C C C D C C D C payoff of ctft2: 285
+
+sequence of ctft1: C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C C D C D C C C C C C C C C C D C C C C C C C D C C C C D C payoff of ctft1: 259
+sequence of ctft2: C C C D D D C C D C C C C C C D C C C D C D C C C C C D C C C C C C C C C C C C C C C D C C C C C D C C C C C C D C C C C D C C C C C C D C C C C C C C D C D D C C C C C C C C C D D C D C C C C D C C payoff of ctft2: 309
+
+sequence of ctft1: D C C C C C C C C C C C C C C C C C C C C C C C C D D C C C C C D C C D C C C C D C C C D C C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 257
+sequence of ctft2: C D C D C C C C C C C D D C C C C C D C D D C C C C C D C D D C D C D C D C D C C C C C C C C C C C C C C C D C C C C D D C C C C C C D C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C D payoff of ctft2: 307
+
+sequence of ctft1: C C C C C C D C C C C C D C D C D C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C D C C C C D C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 283
+sequence of ctft2: C C C C C C C D C C C C C D C D C C C C C C D C C C C C C C D C C C C C C C C C C C C C D C C D C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C D C C C C D C C C C C C C C D C C C payoff of ctft2: 293
+
+sequence of ctft1: C C C C C C C C C C C C C D C C D C C C D C C C D C C C C D D C C C C D C C C C C C C C C D C C C C C C C D C C C C C C C C C C C D C C C D C C C C D C D C C C C C D C C C C C C C C C C C C C C C C C payoff of ctft1: 289
+sequence of ctft2: C C C C C C C C C C C C C C D C C D C C C D C C C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C D C C C C C C D C C C C C C C C C C D C C C C C C C C D C D C C C C C C C payoff of ctft2: 284
+
+sequence of ctft1: C D C D C C C C C C C C C C D D C C C C C C C C C C C C C C D D C C C C C C C D C C C C C C C C C C C C C C C D D C D D C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C C C payoff of ctft1: 293
+sequence of ctft2: C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C D D C C C D C C C C C C D C C C C C C C C C D C C C C C C C C C C C C D C C C C C C D C payoff of ctft2: 278
+
+sequence of ctft1: D C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C D D C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C C C D payoff of ctft1: 293
+sequence of ctft2: C D C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C D C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C payoff of ctft2: 288
+
+sequence of ctft1: D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C D C C D D C C C C C C D C C C C C C C C C D D D D C C C C C C C C C C D D C C C C C C C C C C C C payoff of ctft1: 302
+sequence of ctft2: C D C C C C C C D C C D C C C C C C D C C C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D payoff of ctft2: 272
+
+sequence of ctft1: C D C C D C C C C C D C C C C C C C C C D C C C C D C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C D D C C C C C C C payoff of ctft1: 299
+sequence of ctft2: D C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C D C C C C C C C C C C C C C C D C C C C C C C C D C C C C C C C C C C C C C C payoff of ctft2: 279
+
+sequence of ctft1: C C C C C C C C C C C C C C C C C D C C D C C D C C C C C C C D C C C D C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C D C C C C C C C C C C C C D C D C C C C payoff of ctft1: 282
+sequence of ctft2: C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C D C C C D C D C D C D C C C C D C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C D C C C C C D D C payoff of ctft2: 292
+
+sequence of ctft1: C C C C D C D C C C C D C C C C D C C C C C C C C C C C C C D D C D C C C C C C C C C C D D C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C C C D C C C D C C C payoff of ctft1: 287
+sequence of ctft2: C C C C C D C D C C C C D C C C C C C C C C D C C C C C C C C C C D C D C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C D C C C C C C C D D C C C C C C C C payoff of ctft2: 282
+
+sequence of ctft1: C D D D C C D C C C C C D C C C C C C C C C C C C C C C D C C C C C C C D C C D C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C D C C C C C C C C C C payoff of ctft1: 292
+sequence of ctft2: D C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C C C C D C C C C C C C C C C C C C D C C C C C C D D C D C C C C C C C C D C C C C C C C C C C C C C C D C C C C payoff of ctft2: 282
+
+sequence of ctft1: C C C C C D C C D C C C C C C D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C D C D C C C C C D C C C C C C C C C D C C C C C C C C C C C C C D C C C C C D payoff of ctft1: 296
+sequence of ctft2: C C C C D C C C C C C C C C C C C D D C C C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C C C C payoff of ctft2: 281
+
+sequence of ctft1: C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C C C C C C C D C C C C C C C C D C C C C payoff of ctft1: 280
+sequence of ctft2: C C C D C C C C C D C D C C C C C D D C C C C C C C C C C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C D C C C C C C C D C C C C D C D C D C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 300
+
+sequence of ctft1: C C C C C D C C C D C C C D C C C C D C C C C D C C C C C C C C C C C D D C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C payoff of ctft1: 284
+sequence of ctft2: C C C C D C C C C C C C C C C C C C C C D C C C C C C C C D C C C C C C D C C C C C C D C C C C C C D C C C C C C C C C C C C D C D C C C C C D D C C C C C C C C C C C D C C C C C C C C C C C C C C C payoff of ctft2: 294
+
+sequence of ctft1: C C C D C C C C C C C C C C C C C C C D C C C C C D C C C D D C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C D C C C C C C D C C C C D C D C C D C C C D C C C C C C C C C C C C C C C C C payoff of ctft1: 286
+sequence of ctft2: C C C C D C C C C C C C C C C C C C C C D C C C C C D C C C D D C C C D C D C C C C C C C C D C C C C C C C D C C C C C C C D C C C C D C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft2: 286
+
+sequence of ctft1: C D C C D C C C C D C C C C D C C C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C D C C D D C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C C C D D C C C D C C C C payoff of ctft1: 290
+sequence of ctft2: C C C C C D C C C C C C D C C C D C C D D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C D C C C C C C D C C C D C C C C C C D C C C C payoff of ctft2: 280
+
+sequence of ctft1: C D C C C C D D C C C C C C C D C C C C D C C D C C C C C C C C C C C D C C C D C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C D C C D C C C C C C C C D C C C D C C C C C C C C D C payoff of ctft1: 291
+sequence of ctft2: D C C C C D C C C C C C C C C C D D C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C D C D D C C C C C C payoff of ctft2: 281
+
+sequence of ctft1: C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C C C D C C C D C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C D C C D D C C C C C C payoff of ctft1: 277
+sequence of ctft2: C C D C D C D C C C C C C C C D C C C C C C C C C C C C D C D C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C D C C D C C C C D C C C C C C C C C D C C C C C C D C C C payoff of ctft2: 292
+
+sequence of ctft1: C C C D C C D C D C C D C D C C C C C C C D C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C C C D C C payoff of ctft1: 279
+sequence of ctft2: C C C C D C C D C D D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C D C C D D C C C D C C C C C C C C C C C C D C D C C C C C C C C D C C C C C payoff of ctft2: 294
+
+sequence of ctft1: C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C D C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C payoff of ctft1: 297
+sequence of ctft2: C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C payoff of ctft2: 292
+
+sequence of ctft1: C C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C D C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C C D C C C C C payoff of ctft1: 283
+sequence of ctft2: C C C C C C C C C C C C C D C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C C C C D C C C C C D C C C C C C C D C C C C C C D D C C D C C C C payoff of ctft2: 298
+
+sequence of ctft1: C C C C C C C C D C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C payoff of ctft1: 290
+sequence of ctft2: C C C D C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C D C C C C D C C C C C payoff of ctft2: 295
+
+sequence of ctft1: C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C D C C C C C C C C C D C C C C C C C C D C C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 285
+sequence of ctft2: C C D D C C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C D C C D D C C C C C C C C C C C C C C C C C C payoff of ctft2: 295
+
+sequence of ctft1: C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C C D C C D C C C C C C C C C C D C C C C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C payoff of ctft1: 276
+sequence of ctft2: C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C D C C C C C C C C C D C C D D C D C C C C D C C C C C C D C C C D C C C C C C C C C C C C C C C C D C C C C C C C C D C C C C D C payoff of ctft2: 301
+
+sequence of ctft1: C C C C C C C C D C C C C C C D C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D payoff of ctft1: 281
+sequence of ctft2: C C C C C C C D C C C C C C C D C C C C C C D C D C C C C C C C C D D C C C C C C C D C C C C C C D C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D C C payoff of ctft2: 296
+
+sequence of ctft1: C D C C C C C C C C C C C C C C C C C D D C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C D C C C C C C C D C C C C C C C C D C C D C C C C D C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 289
+sequence of ctft2: D C C C C C C C C C C C C C C C C D D C C C C C C C C C D C C C C C C C C C C C C C D D C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C C C C C C D C C C C C C C D C C C C C C C payoff of ctft2: 289
+
+sequence of ctft1: C C C C D C C C C D C D C C C C C C C C C C C C C D C C C C C C D C D D C C C C C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 277
+sequence of ctft2: C C C C C D C C D C C C C C C D C C D C C C C C C C C C C C C C C C C C C D C C C C C C D D C C C C C C C D C C C D D C C C C C C C C C D C C C C D C C C C D C C C C C C C C C C C C C D C C C C C C C payoff of ctft2: 297
+
+sequence of ctft1: C C C C D D C C C C C C C C C C C D C C C D C C C D C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C D C C C C C C C D C C C C C C C C C C C C C C D C C C C C D C C C C D C C payoff of ctft1: 295
+sequence of ctft2: C C C D C D C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C D C C D C D C C C D C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C payoff of ctft2: 275
+
+sequence of ctft1: C C C C C D C D C C C C C C C C C C D D D C C C C C C C C C D C D C C C C C C C C C C D C C D C D C C C C C C C C C C C C C C C C C D C C C C C C C C C D C C D C C C C C C C C C C C C C C C C C C D C payoff of ctft1: 303
+sequence of ctft2: C C C C D C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C D C C C C C C C C payoff of ctft2: 273
+
+sequence of ctft1: C C C C C C D C C C C C D D C C D C C C D C C D C D C C C C C D C D C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C C payoff of ctft1: 289
+sequence of ctft2: C C C C C C C D C C C C C D D D C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C D C C C C C D C C C D C D C C C C C C C C C C D C C C C payoff of ctft2: 284
+
+sequence of ctft1: C C C C D C C C C C C C C D D C C C C D C C D C C C C C C C D C C C D C C C C C C C C C C C D C C D C C C D C C D C C C C C C C C C C C C D C C C C C C C C D C C C C C C C C C D C C C C C C C C C C D payoff of ctft1: 283
+sequence of ctft2: C C C D C C C C C C C C D D C C C C D D C D C C C C C C C C C C C C C C C C C D C C C C C C C C C C D D C C C C C C C C C C C C C C C D C C C C C C D C C D C D C C C D C C C C C C C C C C C D C C C C payoff of ctft2: 283
+
+sequence of ctft1: C D C C C C C C C C C C D D C C C C D D C C C C C C C C D C C C C D C C C C C D C C C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C D C C D C C C C C C C C C C C D C C C C payoff of ctft1: 281
+sequence of ctft2: C D C C C C C D C C C C C C C C C C C C C C C D D C C C C C C C C C C C C C C D C C C D C C C C C C C C C C D C C C D C D C D C C C C C C C C C C D C C C C C C C C C C C C C D C D C C D C C C C C C C payoff of ctft2: 286
+
+sequence of ctft1: C C C D D D C C C C C C C C C C C D C C C C C C D D C C C C C D C C C C C C C D C C C C C C C C D C C C C C C C D C C C C C D C C D C D C C C C C C C D C D C D C C C C C C C C C C C C C C C C C C C C payoff of ctft1: 298
+sequence of ctft2: C C C D C C C C C C C C C C C C C C C D C C C C C C C C D C C C C D C D C C C C C D C C C C C C C C C C C C D C C C C C D C C C C C D C C C C C C C C C C C C C C C C D C C C C C C C D C C C C C C C C payoff of ctft2: 273
+
+sequence of ctft1: C C C D C C D C C C C C C C C C D C C D C C C C C C C C C C C D D C C C D C C C C C D C C C C C C D C C C C C C C C D C C C C D C C C C C C C C C C C D C C D C C C D C C C C C C C C C C C C C C C C C payoff of ctft1: 286
+sequence of ctft2: C C D C C D C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C D C D D D D C C D C C C C C C C C C C C C C D C C C C C C C C C C C C C C D C C C C C C C C C C C D D C payoff of ctft2: 286
+
+sequence of ctft1: C C C C C D C C C C C C C D C C C C C C C D C C C C C C D C C C C C C C C C D C C C C C C C D C C C C C C D C C C C C C C D C C C C D C C C C C C C D C C C C C C D D C C C C D C C C C C D C C C C C C payoff of ctft1: 297
+sequence of ctft2: C C C C C D C C C C C C C C D C C D D D C C C C C C C C C C D C C D C D C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C payoff of ctft2: 277
+
+sequence of ctft1: C C C C C D D C C D C C C C C C C C C C C C C C C C C C C C D C C C C C C C D D C C C C C C C C C C C C C C C C C C C C C C D C C C C D C C C C C C C C C D C C C C C C C C C C C C C C D C C C C D C D payoff of ctft1: 276
+sequence of ctft2: C C C C D C C C D C C C C C C D C C C C C C C C C C C C C D C D C C C C C D C C C C C D C C C C C D C C C D D C C C C D C D C C C C C C D C C C C C C C C C C C C C C C C D C C C D C C C C C D C C C C payoff of ctft2: 296
+
+sequence of ctft1: C C D D C C C C D C C C C C C D C C C C D C C C C C C C C C C D C C C C C C C C C C C C C D C C C C C C C C C C C C D C C C C C C C C C D C C C C C D C C C C C C C C C C C C C C C D D C C C C C C D C payoff of ctft1: 295
+sequence of ctft2: C D D C C C C D C C C C C C D C C C C D C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C D C C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C payoff of ctft2: 280
+
+average payoff of ctft1: 287.69	average payoff of ctft2: 288.34
+average payoff of master-master with noise: 136.04
+average payoff of master-master: 296
+
+average payoff of slave-slave with noise:  163.99
+average payoff of slave-slave: 200
+
+average payoff of master-slave with noise, master: 219.89
+average payoff of master-slave, master: 477
+
+average payoff of master-slave with noise, slave: 109.54
+average payoff of master-slave, slave: 17
+
+average payoff of master-tft with noise, master: 163.29
+average payoff of master-tft, master: 111
+
+average payoff of master-tft with noise, tft: 121.44
+average payoff of master-tft, tft: 106
+
+average payoff of slave-tft with noise, slave: 164.15
+average payoff of slave-tft, slave: 111
+
+average payoff of slave-tft with noise, tft: 123.1
+average payoff of slave-tft, tft: 106
+
+average payoff of tft-tft with noise: 223.21
+average payoff of tft-tft: 300
+
+average payoff of gtft-gtft with noise: 251.05
+
+average payoff of gtft-master with noise: 113.67
+
+average payoff of master-gtft with noise: 193.02
+
+average payoff of gtft-slave with noise: 115.59
+
+average payoff of slave-gtft with noise: 192.19
+
+average payoff of ctft-ctft with noise: 287.69
+
+average payoff of ctft-master with noise: 84.94
+
+average payoff of master-ctft with noise: 296.34
+
+average payoff of ctft-slave with noise: 87.75
+
+average payoff of slave-ctft with noise: 285.7
+
+system noise rate: 0.1
+generationNow is: 0
+number of CTFT agents: 2584	number of CSMSM agents: 37416	
+generationNow is: 1
+number of CTFT agents: 2127	number of CSMSM agents: 37873	
+generationNow is: 2
+number of CTFT agents: 2684	number of CSMSM agents: 37316	
+generationNow is: 3
+number of CTFT agents: 3459	number of CSMSM agents: 36541	
+generationNow is: 4
+number of CTFT agents: 4365	number of CSMSM agents: 35635	
+generationNow is: 5
+number of CTFT agents: 5399	number of CSMSM agents: 34601	
+generationNow is: 6
+number of CTFT agents: 6574	number of CSMSM agents: 33426	
+generationNow is: 7
+number of CTFT agents: 7821	number of CSMSM agents: 32179	
+generationNow is: 8
+number of CTFT agents: 9098	number of CSMSM agents: 30902	
+generationNow is: 9
+number of CTFT agents: 10406	number of CSMSM agents: 29594	
+generationNow is: 10
+number of CTFT agents: 11817	number of CSMSM agents: 28183	
+generationNow is: 11
+number of CTFT agents: 13240	number of CSMSM agents: 26760	
+generationNow is: 12
+number of CTFT agents: 14738	number of CSMSM agents: 25262	
+generationNow is: 13
+number of CTFT agents: 16237	number of CSMSM agents: 23763	
+generationNow is: 14
+number of CTFT agents: 17789	number of CSMSM agents: 22211	
+generationNow is: 15
+number of CTFT agents: 19246	number of CSMSM agents: 20754	
+generationNow is: 16
+number of CTFT agents: 20709	number of CSMSM agents: 19291	
+generationNow is: 17
+number of CTFT agents: 22076	number of CSMSM agents: 17924	
+generationNow is: 18
+number of CTFT agents: 23314	number of CSMSM agents: 16686	
+generationNow is: 19
+number of CTFT agents: 24601	number of CSMSM agents: 15399	
+generationNow is: 20
+number of CTFT agents: 25808	number of CSMSM agents: 14192	
+generationNow is: 21
+number of CTFT agents: 27006	number of CSMSM agents: 12994	
+generationNow is: 22
+number of CTFT agents: 28092	number of CSMSM agents: 11908	
+generationNow is: 23
+number of CTFT agents: 29118	number of CSMSM agents: 10882	
+generationNow is: 24
+number of CTFT agents: 30019	number of CSMSM agents: 9981	
+generationNow is: 25
+number of CTFT agents: 30909	number of CSMSM agents: 9091	
+generationNow is: 26
+number of CTFT agents: 31728	number of CSMSM agents: 8272	
+generationNow is: 27
+number of CTFT agents: 32435	number of CSMSM agents: 7565	
+generationNow is: 28
+number of CTFT agents: 33033	number of CSMSM agents: 6967	
+generationNow is: 29
+number of CTFT agents: 33618	number of CSMSM agents: 6382	
+generationNow is: 30
+number of CTFT agents: 34158	number of CSMSM agents: 5842	
+generationNow is: 31
+number of CTFT agents: 34619	number of CSMSM agents: 5381	
+generationNow is: 32
+number of CTFT agents: 35032	number of CSMSM agents: 4968	
+generationNow is: 33
+number of CTFT agents: 35433	number of CSMSM agents: 4567	
+generationNow is: 34
+number of CTFT agents: 35766	number of CSMSM agents: 4234	
+generationNow is: 35
+number of CTFT agents: 36086	number of CSMSM agents: 3914	
+generationNow is: 36
+number of CTFT agents: 36354	number of CSMSM agents: 3646	
+generationNow is: 37
+number of CTFT agents: 36576	number of CSMSM agents: 3424	
+generationNow is: 38
+number of CTFT agents: 36761	number of CSMSM agents: 3239	
+generationNow is: 39
+number of CTFT agents: 36953	number of CSMSM agents: 3047	
+generationNow is: 40
+number of CTFT agents: 37077	number of CSMSM agents: 2923	
+generationNow is: 41
+number of CTFT agents: 37183	number of CSMSM agents: 2817	
+generationNow is: 42
+number of CTFT agents: 37300	number of CSMSM agents: 2700	
+generationNow is: 43
+number of CTFT agents: 37414	number of CSMSM agents: 2586	
+generationNow is: 44
+number of CTFT agents: 37489	number of CSMSM agents: 2511	
+generationNow is: 45
+number of CTFT agents: 37572	number of CSMSM agents: 2428	
+generationNow is: 46
+number of CTFT agents: 37631	number of CSMSM agents: 2369	
+generationNow is: 47
+number of CTFT agents: 37677	number of CSMSM agents: 2323	
+generationNow is: 48
+number of CTFT agents: 37707	number of CSMSM agents: 2293	
+generationNow is: 49
+number of CTFT agents: 37747	number of CSMSM agents: 2253	
+generationNow is: 50
+number of CTFT agents: 37780	number of CSMSM agents: 2220	
+generationNow is: 51
+number of CTFT agents: 37791	number of CSMSM agents: 2209	
+generationNow is: 52
+number of CTFT agents: 37791	number of CSMSM agents: 2209	
+generationNow is: 53
+number of CTFT agents: 37799	number of CSMSM agents: 2201	
+generationNow is: 54
+number of CTFT agents: 37806	number of CSMSM agents: 2194	
+generationNow is: 55
+number of CTFT agents: 37808	number of CSMSM agents: 2192	
+generationNow is: 56
+number of CTFT agents: 37815	number of CSMSM agents: 2185	
+generationNow is: 57
+number of CTFT agents: 37817	number of CSMSM agents: 2183	
+generationNow is: 58
+number of CTFT agents: 37820	number of CSMSM agents: 2180	
+generationNow is: 59
+number of CTFT agents: 37824	number of CSMSM agents: 2176	
+generationNow is: 60
+number of CTFT agents: 37829	number of CSMSM agents: 2171	
+generationNow is: 61
+number of CTFT agents: 37832	number of CSMSM agents: 2168	
+generationNow is: 62
+number of CTFT agents: 37833	number of CSMSM agents: 2167	
+generationNow is: 63
+number of CTFT agents: 37834	number of CSMSM agents: 2166	
+generationNow is: 64
+number of CTFT agents: 37836	number of CSMSM agents: 2164	
+generationNow is: 65
+number of CTFT agents: 37838	number of CSMSM agents: 2162	
+generationNow is: 66
+number of CTFT agents: 37840	number of CSMSM agents: 2160	
+generationNow is: 67
+number of CTFT agents: 37841	number of CSMSM agents: 2159	
+generationNow is: 68
+number of CTFT agents: 37842	number of CSMSM agents: 2158	
+generationNow is: 69
+number of CTFT agents: 37841	number of CSMSM agents: 2159	
+generationNow is: 70
+number of CTFT agents: 37842	number of CSMSM agents: 2158	
+generationNow is: 71
+number of CTFT agents: 37842	number of CSMSM agents: 2158	
+generationNow is: 72
+number of CTFT agents: 37842	number of CSMSM agents: 2158	
+generationNow is: 73
+number of CTFT agents: 37843	number of CSMSM agents: 2157	
+generationNow is: 74
+number of CTFT agents: 37843	number of CSMSM agents: 2157	
+generationNow is: 75
+number of CTFT agents: 37843	number of CSMSM agents: 2157	
+generationNow is: 76
+number of CTFT agents: 37844	number of CSMSM agents: 2156	
+generationNow is: 77
+number of CTFT agents: 37845	number of CSMSM agents: 2155	
+generationNow is: 78
+number of CTFT agents: 37846	number of CSMSM agents: 2154	
+generationNow is: 79
+number of CTFT agents: 37847	number of CSMSM agents: 2153	
+generationNow is: 80
+number of CTFT agents: 37847	number of CSMSM agents: 2153	
+generationNow is: 81
+number of CTFT agents: 37848	number of CSMSM agents: 2152	
+generationNow is: 82
+number of CTFT agents: 37849	number of CSMSM agents: 2151	
+generationNow is: 83
+number of CTFT agents: 37849	number of CSMSM agents: 2151	
+generationNow is: 84
+number of CTFT agents: 37850	number of CSMSM agents: 2150	
+generationNow is: 85
+number of CTFT agents: 37850	number of CSMSM agents: 2150	
+generationNow is: 86
+number of CTFT agents: 37851	number of CSMSM agents: 2149	
+generationNow is: 87
+number of CTFT agents: 37852	number of CSMSM agents: 2148	
+generationNow is: 88
+number of CTFT agents: 37852	number of CSMSM agents: 2148	
+generationNow is: 89
+number of CTFT agents: 37852	number of CSMSM agents: 2148	
+generationNow is: 90
+number of CTFT agents: 37853	number of CSMSM agents: 2147	
+generationNow is: 91
+number of CTFT agents: 37853	number of CSMSM agents: 2147	
+generationNow is: 92
+number of CTFT agents: 37854	number of CSMSM agents: 2146	
+generationNow is: 93
+number of CTFT agents: 37854	number of CSMSM agents: 2146	
+generationNow is: 94
+number of CTFT agents: 37855	number of CSMSM agents: 2145	
+generationNow is: 95
+number of CTFT agents: 37856	number of CSMSM agents: 2144	
+generationNow is: 96
+number of CTFT agents: 37857	number of CSMSM agents: 2143	
+generationNow is: 97
+number of CTFT agents: 37858	number of CSMSM agents: 2142	
+generationNow is: 98
+number of CTFT agents: 37858	number of CSMSM agents: 2142	
+generationNow is: 99
+number of CTFT agents: 37859	number of CSMSM agents: 2141	
+generationNow is: 100
+number of CTFT agents: 37860	number of CSMSM agents: 2140	
+generationNow is: 101
+number of CTFT agents: 37861	number of CSMSM agents: 2139	
+generationNow is: 102
+number of CTFT agents: 37862	number of CSMSM agents: 2138	
+generationNow is: 103
+number of CTFT agents: 37863	number of CSMSM agents: 2137	
+generationNow is: 104
+number of CTFT agents: 37863	number of CSMSM agents: 2137	
+generationNow is: 105
+number of CTFT agents: 37864	number of CSMSM agents: 2136	
+generationNow is: 106
+number of CTFT agents: 37864	number of CSMSM agents: 2136	
+generationNow is: 107
+number of CTFT agents: 37865	number of CSMSM agents: 2135	
+generationNow is: 108
+number of CTFT agents: 37866	number of CSMSM agents: 2134	
+generationNow is: 109
+number of CTFT agents: 37867	number of CSMSM agents: 2133	
+generationNow is: 110
+number of CTFT agents: 37867	number of CSMSM agents: 2133	
+generationNow is: 111
+number of CTFT agents: 37868	number of CSMSM agents: 2132	
+generationNow is: 112
+number of CTFT agents: 37868	number of CSMSM agents: 2132	
+generationNow is: 113
+number of CTFT agents: 37868	number of CSMSM agents: 2132	
+generationNow is: 114
+number of CTFT agents: 37869	number of CSMSM agents: 2131	
+generationNow is: 115
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 116
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 117
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 118
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 119
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 120
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 121
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 122
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 123
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 124
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 125
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 126
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 127
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 128
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 129
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 130
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 131
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 132
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 133
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 134
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 135
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 136
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 137
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 138
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 139
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 140
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 141
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 142
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 143
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 144
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 145
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 146
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 147
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 148
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 149
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 150
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 151
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 152
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 153
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 154
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 155
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 156
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 157
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 158
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 159
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 160
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 161
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 162
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 163
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 164
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 165
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 166
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 167
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 168
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 169
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 170
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 171
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 172
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 173
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 174
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 175
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 176
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 177
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 178
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 179
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 180
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 181
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 182
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 183
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 184
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 185
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 186
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 187
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 188
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 189
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 190
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 191
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 192
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 193
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 194
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 195
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 196
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 197
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 198
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 199
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 200
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 201
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 202
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 203
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 204
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 205
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 206
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 207
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 208
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 209
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 210
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 211
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 212
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 213
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 214
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 215
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 216
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 217
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 218
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 219
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 220
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 221
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 222
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 223
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 224
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 225
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 226
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 227
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 228
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 229
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 230
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 231
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 232
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 233
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 234
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 235
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 236
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 237
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 238
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 239
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 240
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 241
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 242
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 243
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 244
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 245
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 246
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 247
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 248
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 249
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 250
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 251
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 252
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 253
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 254
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 255
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 256
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 257
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 258
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 259
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 260
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 261
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 262
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 263
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 264
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 265
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 266
+number of CTFT agents: 37871	number of CSMSM agents: 2129	
+generationNow is: 267
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 268
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 269
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 270
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 271
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 272
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 273
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 274
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 275
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 276
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 277
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 278
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 279
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 280
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 281
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 282
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 283
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 284
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 285
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 286
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 287
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 288
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 289
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 290
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 291
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 292
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 293
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 294
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 295
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 296
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 297
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 298
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 299
+number of CTFT agents: 37870	number of CSMSM agents: 2130	
+generationNow is: 300
